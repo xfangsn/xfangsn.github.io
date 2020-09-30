@@ -16,9 +16,10 @@ permalink: /team/
 {% for member in site.data.pi %}
 
 <div class="row">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="18%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}</i><br>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="100%" style="float: left" />
+  
+  <h4>&nbsp;&nbsp;{{ member.name }}</h4>
+  <i>&nbsp;&nbsp;{{ member.info }}</i>
 
   {% if member.website %}<a href="{{ member.website }}" target="_blank"><i class="fa fa-home fa-2x"></i></a> {% endif %}
   {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a> {% endif %}

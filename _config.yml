@@ -1,39 +1,39 @@
 # Site settings
-title: Dr. Spencer Bryngelson
-email: spencer@caltech.edu
-description: Academic webpage of Dr. Spencer H. Bryngelson
+title: Moscatelli Group
+email: davide.moscatelli@polimi.it
+description: Academic webpage of Prof. D. Moscatelli Research Group
 baseurl: ""
 url: ""
 
 
 # Google analytics ID: Remove or use your own!
-google_analytics: UA-167467135-1
+google_analytics:
 
 # Footer info
 affiliation: >
-    Dr. Spencer Bryngelson<br/>
-    Senior Postdoctoral Scholar<br/>
-    <a href="http://www.eas.caltech.edu/" target="_blank">Engineering and Applied Science</a><br/>
-    California Institute of Technology
+    Dr. Davide Moscatelli<br/>
+    Full Professor <br/>
+    <a href="https://www.cmic.polimi.it/" target="_blank">Chemical Engineering</a><br/>
+    Giulio Natta Dept.
 
 location: >
-  <a href="http://www.mce.caltech.edu/about/gates_thomas" target="_blank">Gates-Thomas Laboratory</a><br/>
-  California Institute of Technology <br/>
-  1200 E California Blvd<br/>
-  Pasadena, CA 91125, MC104-44
+  <a href="https://www.polimi.it/" target="_blank">Giulio Natta Department</a><br/>
+  Politecnico di Milano <br/>
+  Piazza Leonardo da Vinci 32<br/>
+  Milan 20133 - Italy
 
 contact: >
-    <a href="mailto:spencer@caltech.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Spencer via email</a> <br/>
-    <a href="/aboutwebsite.html"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
+    <a href="mailto:davide.moscatelli@polimi.it" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Davide via email</a> <br/>
+
 
 # Pages shown in navbar
 nav_pages:
   - name: about
   - name: publications
-  - name: talks
+#  - name: talks
   - name: research
-  - name: software
-# - name: team
+  - name: laboratory
+  - name: team
 # - name: teaching
 
 # Do you want to group your publications by year? {true/false}
