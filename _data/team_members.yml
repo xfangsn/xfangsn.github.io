@@ -1,3 +1,21 @@
+- name: Renato Auriemma
+  photo: rock.jpg
+  info: Ph.D. Student, started Oct 2017
+  email: renato.auriemma@polimi.it
+  website: 
+  number_educ: 2
+  education1: M.Sc. with <a href="w">Costacuta</a>, Milan
+  education2: B.Sc. with <a href="w">Maradona</a>, Naples
+
+- name: Loic Ronin
+  photo: rock.jpg
+  info: Ph.D. Student, started Oct 2019
+  email: loic.ronin@polimi.it
+  website: 
+  number_educ: 2
+  education1: M.Sc. with <a href="w">Diderot</a>, Paris
+  education2: B.Sc. with <a href="w">Dalambert</a>, Nantes
+  
 - name: Flavio Tollini
   photo: rock.jpg
   info: Ph.D. Student, started Oct 2019
