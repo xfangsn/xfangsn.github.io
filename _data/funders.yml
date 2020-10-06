@@ -1,8 +1,8 @@
-- image: Eni.png
+- image: 1200px-ENI_logo.svg.png
   url: https://www.eni.com/it-IT/home.html
-- image: icap.png
-  url: https://www.icapleather.eu/it/
-- image: serioplast.png
-  url: https://www.serioplast.com/en/
-- image: mare.png
-  url: http://www.mare.com/
+#- image: icap.png
+#  url: https://www.icapleather.eu/it/
+#- image: serioplast.png
+#  url: https://www.serioplast.com/en/
+#- image: mare.png
+#  url: http://www.mare.com/
