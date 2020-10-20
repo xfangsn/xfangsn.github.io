@@ -13,8 +13,7 @@ google_analytics:
 affiliation: >
     Dr. Davide Moscatelli<br/>
     Full Professor <br/>
-    <a href="https://www.cmic.polimi.it/" target="_blank">Chemical Engineering</a><br/>
-    Giulio Natta Dept.
+    <a href="https://www.cmic.polimi.it/" target="_blank">Department of Chemistry, Materials and Chemical Engineering</a><br/>
 
 location: >
   <a href="https://www.polimi.it/" target="_blank">Giulio Natta Department</a><br/>
@@ -24,7 +23,7 @@ location: >
 
 contact: >
     <a href="mailto:davide.moscatelli@polimi.it" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Davide via email</a> <br/>
-
+    <a href="/aboutwebsite.html"><i class="fa fa-github fa-1x"></i> Acknowledgements!</a>
 
 # Pages shown in navbar
 nav_pages:
