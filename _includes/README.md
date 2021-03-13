@@ -1,9 +1,9 @@
-# Davide Moscatelli academic website
+# Mohammad Afzal Shadab academic website
 
 This is a statically-generated Jekyll/Liquid/Bootstrap-based website. We created thanks to the high quality model of :
 [Dr. Spencer H. Bryngelson](https://bryngelson-research.com/).
 
-We are quite grateful to him to have given us the possibility to easily create our own Website. He also help us to solve some problems.
+We are quite grateful to him to have given us the possibility to easily create our own Website.
 
 We suggested to do the same following the [Instructions](https://bryngelson-research.com/aboutwebsite.html) and the [Repository](https://github.com/sbryngelson/sbryngelson.github.io).
 
