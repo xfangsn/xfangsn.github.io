@@ -1,12 +1,12 @@
-- name: Davide Moscatelli 
-  photo: davide_headshot.jpg
-  info: Professor, Politecnico di Milano 
-  email: davide.moscatelli@polimi.it
-  github: https://github.com/mosdav0
-  linkedin: https://www.linkedin.com/in/davide-moscatelli-48735a35/
-  researchgate: 
-  scholar: 
-  cv: cv_moscatelli.pdf
+- name: Mohammad Afzal Shadab
+  photo: headshot_afzal.jpg
+  info: PhD Student, University of Texas at Austin 
+  email: mashadab@utexas.edu
+  github: https://github.com/mashadab
+  linkedin: https://www.linkedin.com/in/mafzalshadab/
+  researchgate: https://www.researchgate.net/profile/Mohammad-Afzal-Shadab
+  scholar: https://scholar.google.com.hk/citations?user=-E3HBR0AAAAJ&hl=en
+  cv: cv_afzal.pdf
   number_educ: 6
   education1: (2020)  Rector’s Delegate to Exploitation of Research and Technology Transfer of the <a href="https://www.cmic.polimi.it/" target="_blank">Politecnico di Milano</a>
   education2: (2019) Member of the <a href="https://easac.eu/programmes/energy/steering-panel-members/" target="_blank">EASAC Energy Steering Panel</a>
