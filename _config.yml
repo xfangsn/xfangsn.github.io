@@ -1,7 +1,7 @@
 # Site settings
-title: Moscatelli Group
-email: davide.moscatelli@polimi.it
-description: Academic webpage of Prof. D. Moscatelli Research Group
+title: Mohammad Afzal Shadab
+email: mashadab@utexas.edu
+description: Academic webpage of Mohammad Afzal Shadab
 baseurl: ""
 url: ""
 
@@ -11,9 +11,9 @@ google_analytics:
 
 # Footer info
 affiliation: >
-    Dr. Davide Moscatelli<br/>
-    Full Professor <br/>
-    <a href="https://www.cmic.polimi.it/" target="_blank">Department of Chemistry, Materials and Chemical Engineering</a><br/>
+    Mohammad Afzal Shadab<br/>
+    Graduate Research Assistant and PhD Student <br/>
+    <a href="https://www.oden.utexas.edu/" target="_blank">Oden Institute for Computational Engineering and Sciences, The University of Texas at Austin </a><br/>
 
 location: >
   <a href="https://www.polimi.it/" target="_blank">Giulio Natta Department</a><br/>
@@ -22,7 +22,7 @@ location: >
   Milan 20133 - Italy
 
 contact: >
-    <a href="mailto:davide.moscatelli@polimi.it" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Davide via email</a> <br/>
+    <a href="mailto:mashadab@utexas.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Afzal via email</a> <br/>
     <a href="/aboutwebsite.html"><i class="fa fa-github fa-1x"></i> Acknowledgements!</a>
 
 # Pages shown in navbar
