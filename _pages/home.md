@@ -28,9 +28,9 @@ Davide was born in 1978 in Milano, he is married and he is father of three child
 Now, he serves as lecturer of **Petroleum Technologies and Refining Processes** course at Politecnico di Milano.
 
 
-#<div class="jumbotron">
-#  <h4>Sponsors</h4>
-#  <div style='display:block; text-align:center; margin-left:auto; margin-right:auto;'>
-# {% for funder in site.data.funders %}<a href="{{ funder.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/logopic/{{ funder.image }}' style='max-height: 80px; max-width: 200px; margin: 1%'/></a>{% endfor %}
-#  </div>
+<div class="jumbotron">
+  <h4>Sponsors</h4>
+  <div style='display:block; text-align:center; margin-left:auto; margin-right:auto;'>
+ {% for funder in site.data.funders %}<a href="{{ funder.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/logopic/{{ funder.image }}' style='max-height: 80px; max-width: 200px; margin: 1%'/></a>{% endfor %}
+  </div>
 </div>
