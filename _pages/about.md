@@ -75,7 +75,7 @@ permalink: /about/
 
 {% if site.data.grants %}
 <div class="jumbotron">
-### Travel Grants and Funded Short Schools
+### Conference Grants and Funded Short Schools
 <ul>
 {% for grant in site.data.grants %}
  <li> {{ grant.name }} </li>
