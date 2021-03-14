@@ -7,8 +7,6 @@ permalink: /
 
 ### Welcome!
 
-New medical devices and therapies stand to improve human health outcomes the world over.
-Though innovating in this space is challenging, predictive simulations provide a promising path forward.
 I am a **computational scientist** who clears these paths via new data-driven models, algorithms, and extreme-scale software.
 Recent examples include the <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-IJMF-20.pdf" target="_blank">most efficient sub-grid model</a> for simulating cavitation, a <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-PRE-19.pdf" target="_blank">low-order model</a> for cell-scale blood flow, and <a href="https://mfc-caltech.github.io/" target="_blank">MFC</a>, my open-source multi-phase flow solver.
 These developments guide biomicrofluidic device design and improve treatment outcomes (e.g. burst-wave <a href="https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/lithotripsy" target="_blank">lithotripsy</a>).
@@ -16,9 +14,9 @@ These developments guide biomicrofluidic device design and improve treatment out
 <div class="container">
 <div class="row">
 <center>
-<iframe src="https://player.vimeo.com/video/523324084?autoplay=1&loop=1&autopause=0&muted=1&quality=360p&background=1" width="150%" style="border-style:solid;border-radius:5px;" frameborder="0" allow="autoplay"></iframe>
+<iframe src="https://player.vimeo.com/video/523324084?autoplay=1&loop=1&autopause=0&muted=1&quality=360p&background=1" width="100%" style="border-style:solid;border-radius:5px;" frameborder="0" allow="autoplay"></iframe>
 Filling of impact-formed crater lake on Mars. <br/>
-Bryngelson & Freund, <i>Phys. Rev. Fluids</i> (2018)
+Hiatt, Shadab et al., <i>AGU Fall Meeting</i> (2020)
 </center>
 </div>
 </div>
