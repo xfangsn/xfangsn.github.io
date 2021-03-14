@@ -10816,8 +10816,8 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .btn-primary {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#54b4eb), color-stop(60%, #BF5700), to(#1d9ce5));
-  background-image: linear-gradient(#54b4eb, #BF5700 60%, #1d9ce5);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#54b4eb), color-stop(60%, #BF5700), to(#BF5700));
+  background-image: linear-gradient(#54b4eb, #BF5700 60%, #BF5700);
   background-repeat: no-repeat;
 }
 
@@ -10835,8 +10835,8 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .btn-info {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#04519b), color-stop(60%, #BF5700), to(#02325f));
-  background-image: linear-gradient(#04519b, #BF5700 60%, #02325f);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#BF5700), color-stop(60%, #BF5700), to(#BF5700));
+  background-image: linear-gradient(#BF5700, #BF5700 60%, #BF5700);
   background-repeat: no-repeat;
 }
 
