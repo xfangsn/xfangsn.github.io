@@ -83,3 +83,14 @@ permalink: /about/
 </ul>
 </div>
 {% endif %}
+
+{% if site.data.community_engagement %}
+<div class="jumbotron">
+### Community Engagement
+<ul>
+{% for comm_engage in site.data.community_engagement %}
+ <li> {{ comm_engage.name }} </li>
+{% endfor %}
+</ul>
+</div>
+{% endif %}
