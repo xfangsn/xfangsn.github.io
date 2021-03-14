@@ -7,11 +7,10 @@ permalink: /
 
 ### Welcome!
 
-Fluid mechanics spans diverse fields of science and engineering. I like to think myself as a fluids enthusiast who aspires to become a **computational scientist** and hopes to solve real-world problem via mathematical modeling and numerical methods.
-I have had the pleasure to work in diverse fields of fluid mechanics and numerical methods such as hypersonic flows, laminar & turbulent combustion, high order numerical methods, and viscoelastic fluids.
+Fluid mechanics spans diverse fields of science and engineering. I like to think myself as a fluids enthusiast who aspires to become a **computational scientist** and hopes to solve real-world problems via mathematical modeling and numerical methods.
+In the past, I have had the pleasure to work in diverse fields of fluid mechanics and numerical methods such as hypersonic flows, laminar & turbulent combustion, high order numerical methods, and viscoelastic fluids.
 Currently, I am investigating multiple fluid flow problems in earth and plantary sciences such as *firn densification due to melt percolation* as a part of the *University of Texas Institute for Geophysics Graduate Student fellowship* 
-and *melt percolation during core formation in planetesimals* through *NASA Emerging World Grant* project.
-I am also collaborating with Eric Hiatt from Jackson School of Geosciences to investigate the <a href="https://agu.confex.com/agu/fm20/webprogram/Paper712914.html" target="_blank">post-impact hydrothermal systems on early Mars</a>.
+and *melt percolation during core formation in planetesimals* through *NASA Emerging World Grant* project. I am also collaborating with Eric Hiatt from Jackson School of Geosciences to investigate the <a href="https://agu.confex.com/agu/fm20/webprogram/Paper712914.html" target="_blank">post-impact hydrothermal systems on early Mars</a>.
 Recent examples include the <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-IJMF-20.pdf" target="_blank">most efficient sub-grid model</a>.
 
 <div class="container">
