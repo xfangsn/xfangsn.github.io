@@ -62,17 +62,6 @@ permalink: /about/
 </div>
 {% endfor %}
 
-{% if site.data.grants %}
-<div class="jumbotron">
-### Grants
-<ul>
-{% for grant in site.data.grants %}
- <li> {{ grant.name }} </li>
-{% endfor %}
-</ul>
-</div>
-{% endif %}
-
 {% if site.data.awards %}
 <div class="jumbotron">
 ### Awards
@@ -84,25 +73,12 @@ permalink: /about/
 </div>
 {% endif %}
 
-
-{% if site.data.people %}
+{% if site.data.grants %}
 <div class="jumbotron">
-### Students and mentoring
+### Travel Grants and Funded Short Schools
 <ul>
-{% for student in site.data.people %}
- <li> {{ student.name }}, {{student.location}} ({{student.degree}}, {{student.year}}) </li>
-{% endfor %}
-</ul>
-</div>
-{% endif %}
-
-
-{% if site.data.collaborators %}
-<div class="jumbotron">
-### Collaborators
-<ul>
-{% for collab in site.data.collaborators %}
- <li> <a href="{{collab.url}}" target="_blank">{{collab.name}}</a> ({{collab.title}})</li>
+{% for grant in site.data.grants %}
+ <li> {{ grant.name }} </li>
 {% endfor %}
 </ul>
 </div>
