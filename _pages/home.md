@@ -7,12 +7,11 @@ permalink: /
 
 ### Welcome!
 
-The beauty of fluid mechanics, is it spans diverse fields of science and engineering. I like to think myself as a **fluids guy** aspiring to become a **computational scientist** who hopes to solve real-world problem via mathematical modeling and numerical scheme development.
+The beauty of fluid mechanics is, it spans diverse fields of science and engineering. I like to think myself as a **fluids guy** aspiring to become a **computational scientist** who hopes to solve real-world problem via mathematical modeling and numerical scheme development.
 I have had the pleasure to work in diverse fields of fluid mechanics and numerical methods such as hypersonic flows, laminar & turbulent combustion, high order numerical methods, viscoelastic fluids.
 Currently, I am investigating multiple fluid flow problems in earth and plantary sciences such as firn densification due to melt percolation as a part of the University of Texas Institute for Geophysics Graduate Student fellowship and melt percolation during core formation in planetesimals through NASA Emerging World Grant project.
 I am also collaborating with Eric Hiatt from Jacskon School of Geosciences to investigate the <a href="https://agu.confex.com/agu/fm20/webprogram/Paper712914.html" target="_blank">post-impact hydrothermal systems on early Mars</a>.
-Recent examples include the <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-IJMF-20.pdf" target="_blank">most efficient sub-grid model</a> for simulating cavitation, a <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-PRE-19.pdf" target="_blank">low-order model</a> for cell-scale blood flow, and <a href="https://mfc-caltech.github.io/" target="_blank">MFC</a>, my open-source multi-phase flow solver.
-These developments guide biomicrofluidic device design and improve treatment outcomes (e.g. burst-wave <a href="https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/lithotripsy" target="_blank">lithotripsy</a>).
+Recent examples include the <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-IJMF-20.pdf" target="_blank">most efficient sub-grid model</a>.
 
 <div class="container">
 <div class="row">
