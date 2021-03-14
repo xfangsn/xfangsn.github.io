@@ -8,7 +8,8 @@ permalink: /
 ### Welcome!
 
 Fluid mechanics spans diverse fields of science and engineering. I like to think myself as a fluids enthusiast who aspires to become a **computational scientist** and hopes to solve real-world problems via mathematical modeling and numerical methods.
-In the past, I have had the pleasure to work in diverse fields of fluid mechanics and numerical methods such as **<a href="href="{{ site.url }}{{ site.baseurl }}/papers/shadab_fifthWENO_CnF_2019.pdf" target="_blank">hypersonic flows</a>**, laminar & turbulent combustion, **<a href="https://arc.aiaa.org/doi/pdf/10.2514/6.2017-2298" target="_blank">high order numerical methods</a>**, and viscoelastic fluids.
+In the past, I have had the pleasure to work in diverse fields of fluid mechanics and numerical methods such as <a href="{{ site.url }}{{ site.baseurl }}/papers/shadab_fifthWENO_CnF_2019.pdf" target="_blank">high order methods</a>, laminar & turbulent combustion, <a href="{{ site.url }}{{ site.baseurl }}/papers/shadab_Scramjet_2017.pdf" target="_blank">hypersonic flows</a>, 
+and <a href="https://meetings.aps.org/Meeting/DFD20/Session/S03.3" target="_blank">viscoelastic fluids</a>.
 Currently, I am investigating multiple fluid flow problems in earth and plantary sciences such as **firn densification due to melt percolation** as a part of the *University of Texas Institute for Geophysics Graduate Student fellowship* 
 and **melt percolation during core formation in planetesimals** through *NASA Emerging World Grant* project. I am also collaborating with Eric Hiatt from Jackson School of Geosciences to investigate the **<a href="https://agu.confex.com/agu/fm20/webprogram/Paper712914.html" target="_blank">post-impact hydrothermal systems on early Mars</a>**.
 Recent examples include the <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-IJMF-20.pdf" target="_blank">most efficient sub-grid model</a>.
