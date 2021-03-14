@@ -30,4 +30,4 @@ I am an M.S. and Ph.D. Student in the Oden Institute for Computational Engineeri
 Since 2020, I have been serving as the President of the <a href="https://siam.oden.utexas.edu" target="_blank">Society of Industrial and Applied Mathematics Chapter at UT Austin</a>.
 Previously, I was a Visiting Graduate Student Researcher at the MIT Fluids Laboratory working with <a href="https://www.mitfluidslab.com/" target="_blank">Professor Irmgard Bischofberger</a>. 
 I hold an M.Phil. degree in Mechanical Engineering from the Hong Kong University of Science and Technology where I worked with <a href="https://www.math.hkust.edu.hk/~makxu/" target="_blank">Professor Kun Xu</a> (2018). 
-Lastly, I hold a B.Tech. degree in Mechanical Engineering from <a href="https://amu.ac.in/" target="_blank">Aligarh Muslim University</a>, India (2012).
+Lastly, I hold a B.Tech. degree in Mechanical Engineering from <a href="https://amu.ac.in/" target="_blank">Aligarh Muslim University</a>, India (2016).
