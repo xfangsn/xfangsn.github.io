@@ -14,7 +14,7 @@ These developments guide biomicrofluidic device design and improve treatment out
 <div class="container">
 <div class="row">
 <center>
-<iframe src="https://player.vimeo.com/video/523324084?autoplay=1&loop=1&autopause=0&muted=1&quality=360p&background=1" height=5cm style="border-style:solid;border-radius:5px;" frameborder="0" allow="autoplay"></iframe>
+<iframe src="https://player.vimeo.com/video/523324084?autoplay=1&loop=1&autopause=0&muted=1&quality=360p&background=1" height=50cm style="border-style:solid;border-radius:5px;" frameborder="0" allow="autoplay"></iframe>
 Filling of impact-formed crater lake on Mars. <br/>
 Hiatt, Shadab et al., <i>AGU Fall Meeting</i> (2020)
 </center>
