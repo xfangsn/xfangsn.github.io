@@ -7,7 +7,7 @@ permalink: /
 
 ### Welcome!
 
-Fluid mechanics spans diverse fields of science and engineering. I like to think myself as a fluids enthusiast who aspires to become a **computational scientist** and hopes to solve real-world problems via mathematical modeling and numerical methods.
+Fluid mechanics spans diverse fields of science and engineering. I am a fluids enthusiast who aspires to become a **computational scientist** and hopes to solve real-world problems with applied mathematics and numerical simulations.
 In the past, I have had the pleasure to work in diverse fields of fluid mechanics and numerical methods such as <a href="{{ site.url }}{{ site.baseurl }}/papers/shadab_fifthWENO_CnF_2019.pdf" target="_blank">high order methods</a>, laminar & turbulent combustion, <a href="{{ site.url }}{{ site.baseurl }}/papers/shadab_Scramjet_2017.pdf" target="_blank">hypersonic flows</a>, 
 and <a href="https://meetings.aps.org/Meeting/DFD20/Session/S03.3" target="_blank">viscoelastic fluids</a>.
 Currently, I am investigating multiple fluid flow problems in earth and plantary sciences such as **firn densification due to melt percolation** as a part of the *University of Texas Institute for Geophysics Graduate Student fellowship* 
@@ -30,4 +30,4 @@ I am an M.S. and Ph.D. Student in the Oden Institute for Computational Engineeri
 Since 2020, I have been serving as the President of the <a href="https://siam.oden.utexas.edu" target="_blank">Society of Industrial and Applied Mathematics Chapter at UT Austin</a>.
 Previously, I was a Visiting Graduate Student Researcher at the MIT Fluids Laboratory working with <a href="https://www.mitfluidslab.com/" target="_blank">Professor Irmgard Bischofberger</a>. 
 I hold an M.Phil. degree in Mechanical Engineering from the Hong Kong University of Science and Technology where I worked with <a href="https://www.math.hkust.edu.hk/~makxu/" target="_blank">Professor Kun Xu</a> (2018). 
-Lastly, I hold a B.Tech. degree in Mechanical Engineering from <a href="https://amu.ac.in/" target="_blank">Aligarh Muslim University</a>, India.
+Lastly, I hold a B.Tech. degree in Mechanical Engineering from <a href="https://amu.ac.in/" target="_blank">Aligarh Muslim University</a>, India (2012).
