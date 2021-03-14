@@ -167,7 +167,7 @@ a {
 }
 
 a:hover {
-  color: #157ab5;
+  color: #BF5700;
   text-decoration: underline;
 }
 
@@ -3346,7 +3346,7 @@ fieldset:disabled a.btn {
 }
 
 .btn-link:hover {
-  color: #157ab5;
+  color: #BF5700;
   text-decoration: underline;
 }
 
@@ -5358,7 +5358,7 @@ input[type="button"].btn-block {
 
 .page-link:hover {
   z-index: 2;
-  color: #157ab5;
+  color: #BF5700;
   text-decoration: none;
   background-color: #e9ecef;
   border-color: #dee2e6;
@@ -10604,7 +10604,7 @@ button.bg-dark:focus {
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #157ab5 !important;
+  color: #BF5700 !important;
 }
 
 .text-secondary {
@@ -10789,8 +10789,8 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .bg-primary {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#54b4eb), color-stop(60%, #BF5700), to(#1d9ce5));
-  background-image: linear-gradient(#54b4eb, #BF5700 60%, #1d9ce5);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#BF5700), color-stop(60%, #BF5700), to(#BF5700));
+  background-image: linear-gradient(#BF5700, #BF5700 60%, #BF5700);
   background-repeat: no-repeat;
 }
 
