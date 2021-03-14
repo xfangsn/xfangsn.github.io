@@ -64,7 +64,7 @@ permalink: /about/
 
 {% if site.data.awards %}
 <div class="jumbotron">
-### Awards
+### Honors and Awards
 <ul>
 {% for award in site.data.awards %}
  <li> {{ award.name | replace: "-","&#8211;"}} </li>
