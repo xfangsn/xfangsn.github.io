@@ -26,8 +26,8 @@ Hiatt, Shadab et al., <i>AGU Fall Meeting</i> (2020)
 
 ### About me
 
-I am a Senior Postdoctoral Scholar at the California Institute of Technology, working with <a href="https://www.colonius.caltech.edu/" target="_blank">Professor Tim Colonius</a>.
-I also work with <a href="http://sandlab.mit.edu/" target="_blank">Professor Themis Sapsis</a> at the Massachusetts Institute of Technology on machine-learned model closures.
-Previously, I was a Postdoctoral Researcher at the <a href="https://xpacc.illinois.edu/" target="_blank">Center for Exascale Simulation of Plasma-Coupled Combustion</a> (XPACC).
-I have a Ph.D. and M.S. in <a href="https://mechanical.illinois.edu/graduate/graduate-degree-programs/phd-programs/phd-theoretical-and-applied-mechanics" target="_blank">Theoretical and Applied Mechanics</a> from the University of Illinois at Urbana–Champaign (2017 and 2015), where I worked with <a href="https://aerospace.illinois.edu/directory/profile/jbfreund" target="_blank">Professor Jonathan Freund</a>.
-I hold B.S. degrees in Mechanical Engineering and Mathematics from the University of Michigan–Dearborn (2013).
+I am an M.S. and Ph.D. Student in the Oden Institute for Computational Engineering and Sciences at the University of Texas at Austin, working with <a href="https://www.jsg.utexas.edu/hesse/marc-hesse/" target="_blank">Professor Marc Hesse</a>.
+Since 2020, I have been serving as the President of the <a href="https://siam.oden.utexas.edu" target="_blank">Society of Industrial and Applied Mathematics Chapter at UT Austin</a>.
+Previously, I was a Visiting Graduate Student Researcher at the MIT Fluids Laboratory working with <a href="https://www.mitfluidslab.com/" target="_blank">Professor Irmgard Bischofberger</a>. 
+I hold an M.Phil. degree in Mechanical Engineering from the Hong Kong University of Science and Technology where I worked with <a href="https://www.math.hkust.edu.hk/~makxu/" target="_blank">Kun Xu</a> (2018). 
+Lastly, I hold a B.Tech. degree in Mechanical Engineering from <a href="https://amu.ac.in/" target="_blank">Aligarh Muslim University</a>, India.
