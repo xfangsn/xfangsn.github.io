@@ -1,13 +1,13 @@
 
-- title: "Self-Assembling PCL-Based Nanoparticles as PTX Solubility Enhancer Excipients"
-  authors: "U.CapassoPalmiero, L.Morosi, M.Lupi, M.Ponzo, R.Frapolli, M.Zucchetti, P.Ubezio, M.Morbidelli, M.D'Incalci, E.Bello, D.Moscatelli"
-  url: 
+- title: "Fifth-order finite-volume WENO on cylindrical grids"
+  authors: "M.A. Shadab and X. Ji and K. Xu"
+  url: https://library.oapen.org/bitstream/handle/20.500.12657/41274/2020_Book_SpectralAndHighOrderMethodsFor.pdf?sequence=1#page=616
   image: 
-  journal: "Macromolecular Bioscience"
-  info: 30047229
-  year: 2018
-  doi: 10.1002/mabi.201800164
-  abstract: "The advent of nanotechnology in medicine has allowed to eliminate the toxic excipients that are often necessary to formulate lipophilic drugs in clinics. An example is paclitaxel, one of the most important chemotherapeutic drugs developed so far, where the Cremophor EL has been eliminated in the Genexol and Abraxane formulations. However, the complex procedures to synthesize these formulations hamper their cost-effective use and, in turn, their distribution among the patient population. For this reason, a simplified method to formulate this drug directly at the bed of the patient has been adopted. It requires only the use of a syringe and it starts from a native dry amphiphilic biodegradable and biocompatible block-copolymer obtained via the combination of the reversible addition–fragmentation chain transfer polymerization and ring-opening polymerization. In this way, a novel paclitaxel formulation with the same drug pharmacological properties, but without the use of the Cremophor EL, can be produced. In addition, as long as these nanoparticles are engineered to act as solubility enhancers, a lower burden for its approval from the pharmaceutical regulatory agencies is also expected."
+  journal: "Spectral and High Order Methods for Partial Differential Equations (Springer)"
+  info: 
+  year: 2020
+  doi: https://doi.org/10.1007/978-3-030-39647-3
+  abstract: The fifth-order finite-volume WENO-C reconstruction scheme is proposed for structured grids in cylindrical coordinates to achieve high order spatial accuracy along with ENO transition. A grid independent smoothness indicator is derived for this scheme. For uniform grids, the analytical values in cylindrical-radial coordinates for the limiting case (R → ∞) conform to WENO-JS. Linear stability analysis of the present scheme is performed using a scalar advection equation in radial coordinates. Several tests involving smooth and discontinuous flows are performed, which testify for the fifth-order accuracy and ENO property of the scheme."
 
 - title: "A quantum chemistry investigation of the gas phase and surface chemistry of the MOCVD of ZnSe"
   authors: "D.Moscatelli, C.Cavallotti, M.Masi, S.Carrà"
