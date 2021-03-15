@@ -12,7 +12,7 @@ permalink: /talks/
 ### Conference Abstracts
 {% for publi in site.data.conference_talks %}
 - <strong>{{ publi.title }}</strong> <br/> 
- {{ publi.authors | replace_first: 'S. H. Bryngelson', '<b>S. H. Bryngelson</b>'}} <br/>
+ {{ publi.authors | replace_first: 'M.A. Shadab', '<b>M.A. Shadab</b>'}} <br/>
  <i>{{ publi.conf }}</i> ({{ publi.year }}) <br/>
 {% endfor %}
 </div>
