@@ -62,7 +62,7 @@ iframe {
   <!-- margin-left:5px; -->
   <!-- float: none; -->
 
-## Research
+## Academic
 
 <div class="jumbotron">
 <div class="row align-items-end">
@@ -120,7 +120,7 @@ This has impacted application-specific treatments, including:
 </div>
 
 
-## Industrial Projects
+## Industrial
 
 <div class="jumbotron">
 <div class="row align-items-end">
@@ -177,7 +177,7 @@ This has impacted application-specific treatments, including:
 </div>
 </div>
 
-## Hobby projects
+## Hobby
 
 <div class="jumbotron">
 <div class="row align-items-end">
