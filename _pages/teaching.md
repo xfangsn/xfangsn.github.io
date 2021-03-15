@@ -7,11 +7,6 @@ permalink: /teaching/
 
 ## Teaching
 
-* Lecturer (Teaching Fellow), University of Illinois at Urbana--Champaign 
-    * Fundamentals of Fluid Dynamics (Junior Level)--2015
-
-* Teaching Assistant, University of Michigan--Dearborn
-    * Design and Analysis of Machine Elements (Junior Level)--2013
-    * Probability, Statistics, and Reliability in Design (Senior Level)--2012
-    * Statics and Mechanics of Materials (Sophomore Level)--2012
-
+* Teaching Assistant, The Hong Kong University of Science and Technology
+    * MECH-3690 Aerospace Engineering Laboratory (Junior and Senior Level)--2017
+    * MECH-1907 Introduction to Aerospace Engineering (Freshman and Sophomore Level)--2018
