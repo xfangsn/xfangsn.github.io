@@ -14,14 +14,7 @@
   url: 
   image: 
   journal: "Journal of Crystal Growth"
-  info:
-  bibtex: @article{shadab2018fifth,
-  title={Fifth-order finite-volume WENO on cylindrical grids},
-  author={Shadab, Mohammad Afzal and Ji, Xing and Xu, Kun},
-  journal={Spectral and High Order Methods for Partial Differential Equations},
-  pages={637},
-  year={2018}
-} 
+  info: 
   year: 2003
   doi: 10.1016/S0022-0248(02)01836-5
   abstract: "Quantum chemistry was used to investigate the gas phase and surface chemistry active during the MOCVD of ZnSe from H2Se and Zn(CH3)2. Energies, structures and transition-state geometries of gas phase and surface species and reactions were determined with a density functional theory. The surface structure was represented through clusters. It was found that the direct reaction between H2Se and Zn(CH3)2 is too slow to explain the formation of adducts experimentally observed. An alternative pathway, based on a radical chain mechanism started from the desorption of CH3 from the surface, occurring during the growth process, was thus proposed. A pathway to the formation of large adducts composed of fast radical gas phase reactions was identified and kinetic constants for each reactive step were determined. Simulation of an experimental reactor showed that this mechanism is able to explain the formation of adducts in the gas phase and the observed growth rates. Then the role of N(Et)3 was investigated. It was found that its effect in preventing gas phase pre-reactions is due to its strong interaction with small ZnSe adducts, thus preventing the formation of larger adducts. On the contrary, its interaction with Zn(CH3)2 is small because of the mutual repulsion between methyl and ethyl groups. © 2002 Elsevier Science B.V. All rights reserved."
