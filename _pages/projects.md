@@ -1,8 +1,8 @@
 ---
-title: "Research"
+title: "Projects"
 layout: gridlay
 sitemap: false
-permalink: /research/
+permalink: /projects/
 ---
 
 <!-- <style> -->
