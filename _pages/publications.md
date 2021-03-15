@@ -17,18 +17,7 @@ permalink: /publications/
 }
 </style>
 
-
-<style>
-.btn{
-    margin-bottom:0;
-}
-.jumbotron{
-    padding-bottom:0px;
-    padding-top:5px;
-    margin-top:10px;
-    margin-bottom:10px
-}
-</style>
+## Articles
 
 {% assign yeartest = true %}
 {% for publi in site.data.publist %}
