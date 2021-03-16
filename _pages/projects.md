@@ -189,7 +189,6 @@ Research highlights:
 <b>Advisor:</b>
 <i> Professor M.R. Ravi</i>
 
-Highlights:
 * Analyzed combustion characteristics of methane and natural gas mixtures with varying hydrogen blending.
 * Performed the experiments using constant pressure combustion chamber apparatus with Schlieren imaging.
 * Simulated the corresponding flames in 1D on CHEMKIN using PREMIX module.
@@ -233,7 +232,6 @@ Entrepreneurship and Maker Skills Integrator program (2018).
 <b>Summer Internship Supervisor:</b>
 <i> Ramray Tudu, DGM, Gas Authority of India Limited</i>
 
-Highlights:
 * Worked at a C2C3 plant at GAIL, participating in its pre-commissioning and commissioning testing.
 * Studied the working of several industrial compressors and a gas turbine (Siemens SGT700).
 
@@ -249,7 +247,6 @@ Highlights:
 <b>Technical Member & Team Lead:</b>
 <i> Society of Automotive Engineers, Aligarh Chapter</i>
 
-Highlights:
 * Conceptualized ergonomically designed the vehicles with improved aerodynamic performance.
 * Designed the vehicles on AutoCAD, simulated on ANSYS, and then finally fabricated.
 
