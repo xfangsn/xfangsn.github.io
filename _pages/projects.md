@@ -165,10 +165,10 @@ Research highlights:
 <i> Professor Karl Schulz, University of Texas at Austin</i>
 
 Used Stampede2 supercomputer at Texas Advanced Computing Center to solve the steady-state heat equation in 1D and 2D. 
-Built and running the C++ codes, bash scripts and their testing mainly verification, regression, and runtime performance, which are present in the GitHub repository (currently private). 
+Built and ran the C++ codes, bash scripts using SLURM Workload Manager. Perform code testing mainly verification, regression, and runtime performance testing. 
 Libraries used:
 * GRVY for timekeeping and debugging
-* MASA for manufactured solutions
+* MASA for method of manufactured solutions
 * Bash automated testing system (bats) for designing regression tests
 * gcov and lcov for code coverage
 * Hierarchical Data Formatting (HDF5) for output file formatting
