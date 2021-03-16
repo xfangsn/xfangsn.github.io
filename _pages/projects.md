@@ -84,7 +84,7 @@ The applications I am currently studying as a part of my doctoral study are:
 
 </div>
 <div class="col-md-3 col-sm-12" style="background-color:transparent;">
-  <iframe src="https://player.vimeo.com/video/524095933?autoplay=1&loop=1&autopause=0&muted=1&quality=240p&background=1" height="182px" frameborder="0" allow="autoplay"></iframe>
+  <iframe src="https://player.vimeo.com/video/524095933?autoplay=1&loop=1&autopause=0&muted=1&quality=720p&background=1" height="182px" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 </div>
 </div>
@@ -110,7 +110,7 @@ the data does not perfectly match the PDEs or scaling of the misfit terms.
 
 </div>
 <div class="col-md-3 col-sm-12" style="background-color:transparent;">
-  <iframe src="https://player.vimeo.com/video/524097521?autoplay=1&loop=1&autopause=0&muted=1&quality=240p&background=1" height="182px" frameborder="0" allow="autoplay"></iframe>
+  <iframe src="https://player.vimeo.com/video/524097521?autoplay=1&loop=1&autopause=0&muted=1&quality=720p&background=1" height="182px" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 </div>
 </div>
@@ -129,7 +129,7 @@ Here we show that the <a href="https://meetings.aps.org/Meeting/DFD20/Session/S0
 
 </div>
 <div class="col-md-3 col-sm-12" style="background-color:transparent;">
-  <iframe src="https://player.vimeo.com/video/524103920?autoplay=1&loop=1&autopause=0&muted=1&quality=240p&background=1" height="182px" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+  <iframe src="https://player.vimeo.com/video/524103920?autoplay=1&loop=1&autopause=0&muted=1&quality=720p&background=1" height="182px" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 </div>
 </div>
