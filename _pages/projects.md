@@ -165,11 +165,12 @@ Scramjets</h4>
   
 <b>Advisor:</b>
 <i> Professor M.F. Baig</i>
+
 Engine unstart refers to the transient disgorging, which is generated with the aid of thermal choking due to impulsive heat addition inside the combustor. The generated pressure disturbance traverses upstream
 inside the isolator duct in the form of normal shock, resulting in a loss of thrust and possible flameout of the engine.
 Research highlights:
-* Proposed a quasi-one-dimensional adaptation of mass, momentum and
-energy conservation <a href="{{ site.url }}{{ site.baseurl }}/papers/shadab_fifthWENO_CnF_2019.pdf" target="_blank">fifth order finite volume WENO-C in orthogonally-curvilinear coordinates</a>.
+* Designed a Scramjet based on different operating Mach numbers
+* A quasi-one-dimensional adaptation of mass, momentum and energy conservation.
 * A <a href="{{ site.url }}{{ site.baseurl }}/papers/shadab_Scramjet_2017.pdf" target="_blank">single-input-single-output (SISO) mechanism</a> based on pressure feedback is proposed to avert Engine unstart
 
 </div>
