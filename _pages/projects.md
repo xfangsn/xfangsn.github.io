@@ -95,7 +95,7 @@ The applications I am currently studying as a part of my doctoral study are:
  <h4> Investigating Fluid Drainage using Physics Informed Neural Networks</h4>
   
 <b>Collaborators:</b>
-<i> DingCheng Luo, Yiran Shen, Eric Hiatt, and Professor Marc Hesse</i>
+<i> DingCheng Luo, Yiran Shen, Eric Hiatt, and Prof. Marc Hesse</i>
 
 Physics Informed Neural Networks (PINNs) is a state-of-the-art tool for finding data-driven solutions to PDEs and discovering parameters in a PDE from
 a given data. In the present work, we have studied both, in the context of fluid
