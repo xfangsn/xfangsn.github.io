@@ -100,12 +100,12 @@ The applications I am currently studying as a part of my doctoral study are:
 Physics Informed Neural Networks (PINNs) is a state-of-the-art tool for finding data-driven solutions to PDEs and discovering parameters in a PDE from
 a given data. In the present work, we have studied both, in the context of fluid
 drainage from the edge of a porous reservoir.
-We are investigating:
-* steady-state PDE, called Dupuit-Boussinesq approximation, from both synthetic and experimental data
+We are interested in finding
+* A steady-state PDE, called Dupuit-Boussinesq approximation, from both synthetic and experimental data
 for a range of given input flow values.
-* estimation problem for the transient flow PDE, using numerical solutions from finite-difference simulations as the input data to
+* An stimation problem for the transient flow PDE, using numerical solutions from finite-difference simulations as the input data to
 infer both the hydraulic conductivity and the outflow boundary condition.
-* difficulties in implementing PINNs for studying this problem, for example, when
+* Difficulties in implementing PINNs for studying this problem, for example, when
 the data does not perfectly match the PDEs or scaling of the misfit terms.
 
 </div>
