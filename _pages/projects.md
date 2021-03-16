@@ -181,6 +181,30 @@ Research highlights:
 </div>
 
 
+<div class="jumbotron">
+<div class="row align-items-end">
+<div class="col-md-9 col-sm-12">
+ <h4> Investigation and Control of Unstart Phenomenon in
+Scramjets</h4>
+  
+<b>Advisor:</b>
+<i> Professor M.F. Baig</i>
+
+Engine unstart refers to the transient disgorging, which is generated with the aid of thermal choking due to impulsive heat addition inside the combustor. The generated pressure disturbance traverses upstream
+inside the isolator duct in the form of normal shock, resulting in a loss of thrust and possible flameout of the engine.
+Research highlights:
+* Designed a Scramjet based on different operating Mach numbers
+* A quasi-one-dimensional adaptation of mass, momentum and energy conservation.
+* A <a href="{{ site.url }}{{ site.baseurl }}/papers/shadab_Scramjet_2017.pdf" target="_blank">single-input-single-output (SISO) mechanism</a> based on pressure feedback is proposed to avert Engine unstart
+
+</div>
+<div class="col-md-3 col-sm-12" style="background-color:transparent;">
+  <iframe src="https://player.vimeo.com/video/524147082?autoplay=1&loop=1&autopause=0&muted=1&quality=1080p&background=1" height="182px" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+</div>
+</div>
+
+
 ## Industrial
 
 <div class="jumbotron">
