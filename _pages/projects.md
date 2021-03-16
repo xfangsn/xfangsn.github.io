@@ -265,7 +265,10 @@ Entrepreneurship and Maker Skills Integrator program (2018).
 <div class="col-md-9 col-sm-12">
 <h4>Dimensional Analysis tool using Pi Theorem</h4>
 
-The Python GUI based tool can perform the dimensional analysis using Buckingham Pi theorem (<a href='https://drive.google.com/drive/folders/1-BnQePbN60gHgodgULoHO3ArwdrybHyl' target='_blank'>exe</a>/<a href='https://github.com/mashadab/dimensional-analysis' target='_blank'>src</a>) with <a href='https://www.youtube.com/watch?v=fStF38csvCE' target='_blank'>Youtube tutorial</a>.
+<b>Developer:</b>
+<i> Mohammad Afzal Shadab</i>
+
+The Python GUI based tool can perform the dimensional analysis using Buckingham Pi theorem (<a href='https://drive.google.com/drive/folders/1-BnQePbN60gHgodgULoHO3ArwdrybHyl' target='_blank'>exe</a>/<a href='https://github.com/mashadab/dimensional-analysis' target='_blank'>src</a>) with Youtube tutorial.
 
 </div>
 <div class="col-md-3 col-sm-12" style="background-color:transparent;">
