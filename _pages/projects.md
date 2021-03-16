@@ -212,7 +212,7 @@ Highlights:
 <b>Co-Founders:</b>
 <i> Sal Amarsinghe, Mohammad Afzal Shadab, Dr. Nikhil Bhargava, Melody Mui and Dakota Pierce</i>
 
-* Ideated and validated consumer problems and market opportunities through market research.
+* Ideated and validated consumer problems and B2B market opportunities through market research.
 * Designed prototype on AutoCAD, fabricated using 3D printing, and implemented fast & accurate algorithms.
 * Received MIT Sandbox Innovation Fund worth $5000 and won both Judge’s & Audience Awards at MIT
 Entrepreneurship and Maker Skills Integrator program (2018).
@@ -228,29 +228,38 @@ Entrepreneurship and Maker Skills Integrator program (2018).
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-9 col-sm-12">
- <h4> Bio-polymers for Pharma</h4>
+ <h4>Industrial Compressors and Gas Turbines</h4>
   
-<b>Developer:</b>
-<i> Mattia Sponchioni</i>
+<b>Summer Internship Supervisor:</b>
+<i> Ramray Tudu, DGM, Gas Authority of India Limited</i>
 
-Cavitating bubbles can ablate cancer cells, fragment tissues, and deliver drugs, among other functions.
-I develop high-fidelity computational methods to simulate these dynamics.
-Examples are:
-* Euler--Euler and Euler--Lagrange <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-IJMF-19.pdf" target="_blank">sub-grid bubble cloud models</a>
-* Accelerated models using a <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-IJMF-20.pdf" target="_blank">statistical paradigm and neural networks</a>
-* Implementation in my open-source solver <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-CPC-19.pdf" target="_blank">MFC</a>
+Highlights:
+* Worked at a C2C3 plant at GAIL, participating in its pre-commissioning and commissioning testing.
+* Studied the working of several industrial compressors and a gas turbine (Siemens SGT700).
 
-These enable realistic simulation of the bubble populations that nucleate during treatment.
-This has impacted application-specific treatments, including:
-* Improved _burst-wave lithotripsy administration_ in human trials 
-* Understanding of <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-JCP-20.pdf" target="_blank">bubble-collapse-rebound</a> dynamics
-* Cavitation-induced <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-JFM-19.pdf" target="_blank">erosion potential</a> for rough materials
+</div>
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="row align-items-end">
+<div class="col-md-9 col-sm-12">
+ <h4>Formula Student Race Car and Hybrid Tricycle</h4>
+  
+<b>Technical Member & Team Lead:</b>
+<i> Society of Automotive Engineers, Aligarh Chapter</i>
+
+Highlights:
+* Conceptualized ergonomically designed the vehicles with improved aerodynamic performance.
+* Designed the vehicles on AutoCAD, simulated on ANSYS, and then finally fabricated.
+
 </div>
 <div class="col-md-3 col-sm-12" style="background-color:transparent;">
-  <iframe src="https://player.vimeo.com/video/455888052?autoplay=1&loop=1&autopause=0&muted=1&quality=240p&background=1" height="182px" frameborder="0" allow="autoplay"></iframe>
+  <iframe src="https://player.vimeo.com/video/524157097?autoplay=1&loop=1&autopause=0&muted=1&quality=1080p&background=1" height="182px" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 </div>
 </div>
+
 
 ## Hobby
 
