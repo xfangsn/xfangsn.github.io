@@ -83,14 +83,8 @@ The applications I am currently studying as a part of my doctoral study are:
 * <a href="https://agu.confex.com/agu/fm20/webprogram/Paper712914.html" target="_blank">Groundwater filling times for large impact basins on early Mars and implications for the onset of post impact hydrothermal systems</a>
 
 </div>
-</div>
-<div class="container">
-<div class="row">
-<center>
-<iframe src="https://player.vimeo.com/video/523324084?autoplay=1&loop=1&autopause=0&muted=1&quality=360p&background=1" width="400" height="400" style="border-style:solid;border-radius:5px;" frameborder="0" allow="autoplay"></iframe>
-<br>Filling of impact-formed crater lake on Mars. <br/>
-Hiatt, Shadab et al., <i>AGU Fall Meeting</i> (2020)
-</center>
+<div class="col-md-3 col-sm-12" style="background-color:transparent;">
+  <iframe src="https://player.vimeo.com/video/524095933?autoplay=1&loop=1&autopause=0&muted=1&quality=240p&background=1" width="400" height="400" frameborder="0" allow="autoplay"></iframe>
 </div>
 </div>
 </div>
@@ -127,24 +121,15 @@ the data does not perfectly match the PDEs or scaling of the misfit terms.
 <div class="col-md-9 col-sm-12">
  <h4> Bio-polymers for Pharma</h4>
   
-<b>Developer:</b>
-<i> Mattia Sponchioni</i>
+<b>Advisor:</b>
+<i> Professor Irmgard Bischofberger</i>
 
-Cavitating bubbles can ablate cancer cells, fragment tissues, and deliver drugs, among other functions.
-I develop high-fidelity computational methods to simulate these dynamics.
-Examples are:
-* Euler--Euler and Euler--Lagrange <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-IJMF-19.pdf" target="_blank">sub-grid bubble cloud models</a>
-* Accelerated models using a <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-IJMF-20.pdf" target="_blank">statistical paradigm and neural networks</a>
-* Implementation in my open-source solver <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-CPC-19.pdf" target="_blank">MFC</a>
+A drop of a Newtonian liquid falling in a bath of another, less-dense and miscible, Newtonian liquid, deforms into a torus which is either stable or subsequently fragments into smaller structures, depending on the relative contributions of diffusive, viscous and convective forces. 
+Here we show that the <a href="https://meetings.aps.org/Meeting/DFD20/Session/S03.3" target="_blank">dynamics of the drop can change significantly when the bath is replaced by a viscoelastic liquid</a>. Wrote a MATLAB code (<a href="https://github.com/mashadab/drop-dynamics" target="_blank">src</a>) to analyse a moving frame video.
 
-These enable realistic simulation of the bubble populations that nucleate during treatment.
-This has impacted application-specific treatments, including:
-* Improved _burst-wave lithotripsy administration_ in human trials 
-* Understanding of <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-JCP-20.pdf" target="_blank">bubble-collapse-rebound</a> dynamics
-* Cavitation-induced <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-JFM-19.pdf" target="_blank">erosion potential</a> for rough materials
 </div>
 <div class="col-md-3 col-sm-12" style="background-color:transparent;">
-  <iframe src="https://player.vimeo.com/video/455888052?autoplay=1&loop=1&autopause=0&muted=1&quality=240p&background=1" height="182px" frameborder="0" allow="autoplay"></iframe>
+  <iframe src="https://player.vimeo.com/video/524103920?autoplay=1&loop=1&autopause=0&muted=1&quality=240p&background=1" height="182px" frameborder="0" allow="autoplay"></iframe>
 </div>
 </div>
 </div>
