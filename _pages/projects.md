@@ -70,7 +70,7 @@ iframe {
  <h4>Two Phase Flow in a Viscously Compacting Matrix</h4>
   
 <b>Advisor:</b>
-<i> Professor Marc Hesse</i>
+<i> Professor Marc Hesse, University of Texas at Austin</i>
 
 Developing a 2D solver to simulate two immiscible fluids inside a viscously compacting porous solid. The solver is based on:
 * Conservative finite-difference scheme
@@ -95,7 +95,7 @@ The applications I am currently studying as a part of my doctoral study are:
  <h4> Investigating Fluid Drainage using Physics Informed Neural Networks</h4>
   
 <b>Collaborators:</b>
-<i> DingCheng Luo, Yiran Shen, Eric Hiatt, and Prof. Marc Hesse</i>
+<i> DingCheng Luo, Yiran Shen, Eric Hiatt, and Prof. Marc Hesse, University of Texas at Austin</i>
 
 Physics Informed Neural Networks (PINNs) is a state-of-the-art tool for finding data-driven solutions to PDEs and discovering parameters in a PDE from
 a given data. In the present work, we have studied both, in the context of fluid
@@ -122,7 +122,7 @@ the data does not perfectly match the PDEs or scaling of the misfit terms.
  <h4> Suppression of drop breakup in a viscoelastic bath</h4>
   
 <b>Advisor:</b>
-<i> Professor Irmgard Bischofberger</i>
+<i> Professor Irmgard Bischofberger, MIT</i>
 
 A drop of a Newtonian liquid falling in a bath of another, less-dense and miscible, Newtonian liquid, deforms into a torus which is either stable or subsequently fragments into smaller structures, depending on the relative contributions of diffusive, viscous and convective forces. 
 Here we show that the <a href="https://meetings.aps.org/Meeting/DFD20/Session/S03.3" target="_blank">dynamics of the drop can change significantly when the bath is replaced by a viscoelastic liquid</a>. Wrote a MATLAB code (<a href="https://github.com/mashadab/drop-dynamics" target="_blank">src</a>) to analyse a moving frame video.
@@ -140,7 +140,7 @@ Here we show that the <a href="https://meetings.aps.org/Meeting/DFD20/Session/S0
  <h4> High-Order Finite-Volume Reconstruction in Curvilinear Coordinates</h4>
   
 <b>Advisor:</b>
-<i> Professor Kun Xu</i>
+<i> Professor Kun Xu, The Hong Kong University of Science and Technology</i>
 
 High-order reconstruction represents the state-of-the-art computational physics. The main ideas in using <a href="https://users.soe.ucsc.edu/~dongwook/wp-content/uploads/2019/ams260/_build/html/_downloads/Shu_wenoConvection_2009.pdf" target="_blank">Weighed Essentially Non-Oscillatory schemes</a> to solve various hyperbolic PDEs and other convection dominated problems, and present a collection of applications in areas including computational fluid dynamics, computational astronomy and astrophysics, semiconductor device simulation, traffic flow models, computational biology and some non-PDE applications.
 Research highlights:
@@ -164,7 +164,7 @@ Research highlights:
 Scramjets</h4>
   
 <b>Advisor:</b>
-<i> Professor M.F. Baig</i>
+<i> Professor M.F. Baig, Aligarh Muslim University, India</i>
 
 Engine unstart refers to the transient disgorging, which is generated with the aid of thermal choking due to impulsive heat addition inside the combustor. The generated pressure disturbance traverses upstream
 inside the isolator duct in the form of normal shock, resulting in a loss of thrust and possible flameout of the engine.
@@ -187,7 +187,7 @@ Research highlights:
 <h4> Effective Lewis Number for Multicomponent Hydrocarbon-Air Mixtures</h4>
   
 <b>Advisor:</b>
-<i> Professor M.R. Ravi</i>
+<i> Professor M.R. Ravi, Indian Institute of Technology, Delhi, India</i>
 
 * Analyzed combustion characteristics of methane and natural gas mixtures with varying hydrogen blending.
 * Performed the experiments using constant pressure combustion chamber apparatus with Schlieren imaging.
@@ -209,7 +209,7 @@ Research highlights:
  <h4>Hummingbird – Wearable Device for Exchanging Information</h4>
   
 <b>Co-Founders:</b>
-<i> Sal Amarsinghe, Mohammad Afzal Shadab, Dr. Nikhil Bhargava, Melody Mui and Dakota Pierce</i>
+<i> Sal Amarsinghe, Mohammad Afzal Shadab, Dr. Nikhil Bhargava, Melody Mui and Dakota Pierce, MIT and Hong Kong Innovation Node</i>
 
 * Ideated and validated consumer problems and B2B market opportunities through market research.
 * Designed prototype on AutoCAD, fabricated using 3D printing, and implemented fast & accurate algorithms.
@@ -230,7 +230,7 @@ Entrepreneurship and Maker Skills Integrator program (2018).
  <h4>Industrial Compressors and Gas Turbines</h4>
   
 <b>Summer Internship Supervisor:</b>
-<i> Ramray Tudu, DGM, Gas Authority of India Limited</i>
+<i> Ramray Tudu, Deputy General Manager, Gas Authority of India Limited</i>
 
 * Worked at a C2C3 plant at GAIL, participating in its pre-commissioning and commissioning testing.
 * Studied the working of several industrial compressors and a gas turbine (Siemens SGT700).
