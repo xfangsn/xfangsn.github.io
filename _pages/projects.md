@@ -184,18 +184,15 @@ Research highlights:
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-9 col-sm-12">
- <h4> Investigation and Control of Unstart Phenomenon in
-Scramjets</h4>
+<h4> Effective Lewis Number for Multicomponent Hydrocarbon-Air Mixtures</h4>
   
 <b>Advisor:</b>
-<i> Professor M.F. Baig</i>
+<i> Professor M.R. Ravi</i>
 
-Engine unstart refers to the transient disgorging, which is generated with the aid of thermal choking due to impulsive heat addition inside the combustor. The generated pressure disturbance traverses upstream
-inside the isolator duct in the form of normal shock, resulting in a loss of thrust and possible flameout of the engine.
-Research highlights:
-* Designed a Scramjet based on different operating Mach numbers
-* A quasi-one-dimensional adaptation of mass, momentum and energy conservation.
-* A <a href="{{ site.url }}{{ site.baseurl }}/papers/shadab_Scramjet_2017.pdf" target="_blank">single-input-single-output (SISO) mechanism</a> based on pressure feedback is proposed to avert Engine unstart
+Highlights:
+* Analyzed combustion characteristics of methane and natural gas mixtures with varying hydrogen blending.
+* Performed the experiments using constant pressure combustion chamber apparatus with Schlieren imaging.
+* Simulated the corresponding flames in 1D on CHEMKIN using PREMIX module.
 
 </div>
 <div class="col-md-3 col-sm-12" style="background-color:transparent;">
