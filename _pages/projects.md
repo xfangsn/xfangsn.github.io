@@ -102,9 +102,9 @@ a given data. In the present work, we have studied both, in the context of fluid
 drainage from the edge of a porous reservoir.
 We are investigating:
 * steady-state PDE, called Dupuit-Boussinesq approximation, from both synthetic and experimental data
-for a range of given input flow values
+for a range of given input flow values.
 * estimation problem for the transient flow PDE, using numerical solutions from finite-difference simulations as the input data to
-infer both the hydraulic conductivity and the outflow boundary condition
+infer both the hydraulic conductivity and the outflow boundary condition.
 * difficulties in implementing PINNs for studying this problem, for example, when
 the data does not perfectly match the PDEs or scaling of the misfit terms.
 
@@ -137,30 +137,26 @@ Here we show that the <a href="https://meetings.aps.org/Meeting/DFD20/Session/S0
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-9 col-sm-12">
- <h4> Bio-polymers for Pharma</h4>
+ <h4> High-Order Finite-Volume Reconstruction in Curvilinear Coordinates</h4>
   
-<b>Developer:</b>
-<i> Mattia Sponchioni</i>
+<b>Advisor:</b>
+<i> Professor Kun Xu</i>
 
-Cavitating bubbles can ablate cancer cells, fragment tissues, and deliver drugs, among other functions.
-I develop high-fidelity computational methods to simulate these dynamics.
-Examples are:
-* Euler--Euler and Euler--Lagrange <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-IJMF-19.pdf" target="_blank">sub-grid bubble cloud models</a>
-* Accelerated models using a <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-IJMF-20.pdf" target="_blank">statistical paradigm and neural networks</a>
-* Implementation in my open-source solver <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-CPC-19.pdf" target="_blank">MFC</a>
+High-order reconstruction represents the state-of-the-art computational physics. The main ideas in using <a href="https://users.soe.ucsc.edu/~dongwook/wp-content/uploads/2019/ams260/_build/html/_downloads/Shu_wenoConvection_2009.pdf" target="_blank">Weighed Essentially Non-Oscillatory schemes</a> to solve various hyperbolic PDEs and other convection dominated problems, and present a collection of applications in areas including computational fluid dynamics, computational astronomy and astrophysics, semiconductor device simulation, traffic flow models, computational biology and some non-PDE applications.
+Research highlights:
+* Proposed <a href="{{ site.url }}{{ site.baseurl }}/papers/shadab_fifthWENO_CnF_2019.pdf" target="_blank">fifth order finite volume WENO-C in orthogonally-curvilinear coordinates</a>.
+* WENO-Curvilinear reconstruction and averaging weights provided for standard grids.
+* Analytical values of weights for Radius → ∞ case conform to conventional WENO-JS.
+* Tests performed in <a href="{{ site.url }}{{ site.baseurl }}/papers/shadab_ICOSAHOM_2020.pdf" target="_blank">curvilinear coordinates</a> testify for fifth order & ENO properties.
 
-These enable realistic simulation of the bubble populations that nucleate during treatment.
-This has impacted application-specific treatments, including:
-* Improved _burst-wave lithotripsy administration_ in human trials 
-* Understanding of <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-JCP-20.pdf" target="_blank">bubble-collapse-rebound</a> dynamics
-* Cavitation-induced <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-JFM-19.pdf" target="_blank">erosion potential</a> for rough materials
+shadab_ICOSAHOM_2020
+
 </div>
 <div class="col-md-3 col-sm-12" style="background-color:transparent;">
   <iframe src="https://player.vimeo.com/video/455888052?autoplay=1&loop=1&autopause=0&muted=1&quality=1080p&background=1" height="182px" frameborder="0" allow="autoplay"></iframe>
 </div>
 </div>
 </div>
-
 
 ## Industrial
 
