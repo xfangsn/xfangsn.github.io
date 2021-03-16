@@ -280,18 +280,14 @@ The tool can find the number of the repeating variables and also the linear depe
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-9 col-sm-12">
-<h4>Twitter Webscraping</h4>
+<h4>Twitter Webscraper</h4>
 
 <b>Developer:</b>
 <i> Mohammad Afzal Shadab</i>
 
-The Python code can perform the dimensional analysis using Buckingham Pi theorem (<a href='https://drive.google.com/drive/folders/1-BnQePbN60gHgodgULoHO3ArwdrybHyl' target='_blank'>exe</a>/<a href='https://github.com/mashadab/dimensional-analysis' target='_blank'>src</a>) with Youtube tutorial.
-The tool can find the number of the repeating variables and also the linear dependence in between them.
+Salient features of the Python program (<a href='https://github.com/mashadab/twitterwebscraper' target='_blank'>src</a>):
 
-</div>
-<div class="col-md-3 col-sm-12" style="background-color:transparent;">
-  <iframe src="https://player.vimeo.com/video/524159648?autoplay=1&loop=1&autopause=0&muted=1&quality=1080p&background=1" height="182px" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-</div>
-</div>
-</div>
+* Calculates and can also print Tweets with a "keyword" for a specific period in a specific region
+* Doesn't require Twitter Official Access Token
+* Bypasses Twitter official time limit of 7 days
 
