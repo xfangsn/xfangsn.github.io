@@ -103,7 +103,7 @@ drainage from the edge of a porous reservoir.
 We are interested in finding
 * A steady-state PDE, called Dupuit-Boussinesq approximation, from both synthetic and experimental data
 for a range of given input flow values.
-* An stimation problem for the transient flow PDE, using numerical solutions from finite-difference simulations as the input data to
+* An estimation problem for the transient flow PDE, using numerical solutions from finite-difference simulations as the input data to
 infer both the hydraulic conductivity and the outflow boundary condition.
 * Difficulties in implementing PINNs for studying this problem, for example, when
 the data does not perfectly match the PDEs or scaling of the misfit terms.
@@ -285,7 +285,7 @@ The tool can find the number of the repeating variables and also the linear depe
 <b>Developer:</b>
 <i> Mohammad Afzal Shadab</i>
 
-The Python GUI based tool can perform the dimensional analysis using Buckingham Pi theorem (<a href='https://drive.google.com/drive/folders/1-BnQePbN60gHgodgULoHO3ArwdrybHyl' target='_blank'>exe</a>/<a href='https://github.com/mashadab/dimensional-analysis' target='_blank'>src</a>) with Youtube tutorial.
+The Python code can perform the dimensional analysis using Buckingham Pi theorem (<a href='https://drive.google.com/drive/folders/1-BnQePbN60gHgodgULoHO3ArwdrybHyl' target='_blank'>exe</a>/<a href='https://github.com/mashadab/dimensional-analysis' target='_blank'>src</a>) with Youtube tutorial.
 The tool can find the number of the repeating variables and also the linear dependence in between them.
 
 </div>
