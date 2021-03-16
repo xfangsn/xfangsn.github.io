@@ -149,7 +149,6 @@ Research highlights:
 * Analytical values of weights for Radius → ∞ case conform to conventional WENO-JS.
 * Tests performed in <a href="{{ site.url }}{{ site.baseurl }}/papers/shadab_ICOSAHOM_2020.pdf" target="_blank">curvilinear coordinates</a> testify for fifth order & ENO properties.
 
-shadab_ICOSAHOM_2020
 
 </div>
 <div class="col-md-3 col-sm-12" style="background-color:transparent;">
