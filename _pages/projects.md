@@ -207,26 +207,20 @@ Highlights:
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-9 col-sm-12">
- <h4>Decomposition of Carbonates</h4>
+ <h4>Hummingbird – Wearable Device for Exchanging Information</h4>
   
-<b>Developer:</b>
-<i>  Gianmarco Polotti</i>
+<b>Co-Founders:</b>
+<i> Sal Amarsinghe, Dr. Nikhil Bhargava, Melody Mui and Dakota Pierce</i>
 
-Cavitating bubbles can ablate cancer cells, fragment tissues, and deliver drugs, among other functions.
-I develop high-fidelity computational methods to simulate these dynamics.
-Examples are:
-* Euler--Euler and Euler--Lagrange <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-IJMF-19.pdf" target="_blank">sub-grid bubble cloud models</a>
-* Accelerated models using a <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-IJMF-20.pdf" target="_blank">statistical paradigm and neural networks</a>
-* Implementation in my open-source solver <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-CPC-19.pdf" target="_blank">MFC</a>
+* <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-JCP-20.pdf" target="_blank">bubble-collapse-rebound</a>
+* Ideated and validated consumer problems and market opportunities through market research.
+* Designed prototype on AutoCAD, fabricated using 3D printing, and implemented fast & accurate algorithms.
+* Received MIT Sandbox Innovation Fund worth $5000 and won both Judge’s & Audience Awards at MIT
+Entrepreneurship and Maker Skills Integrator program (2018). (<a href="https://www.youtube.com/watch?v=CGnusIgcISs" target="_blank">Winning pitch video</a>)
 
-These enable realistic simulation of the bubble populations that nucleate during treatment.
-This has impacted application-specific treatments, including:
-* Improved _burst-wave lithotripsy administration_ in human trials 
-* Understanding of <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-JCP-20.pdf" target="_blank">bubble-collapse-rebound</a> dynamics
-* Cavitation-induced <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-JFM-19.pdf" target="_blank">erosion potential</a> for rough materials
 </div>
 <div class="col-md-3 col-sm-12" style="background-color:transparent;">
-  <iframe src="{{ site.url }}{{ site.baseurl }}/images/research/VID_20200423_120900.mp4" height="182px" frameborder="0" allow="autoplay"></iframe>
+  <iframe src="https://player.vimeo.com/video/524151731?autoplay=1&loop=1&autopause=0&muted=1&quality=1080p&background=1" height="182px" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 </div>
 </div>
