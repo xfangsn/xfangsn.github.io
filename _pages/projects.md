@@ -220,7 +220,7 @@ Research highlights:
 
 </div>
 <div class="col-md-3 col-sm-12" style="background-color:transparent;">
-  <iframe src="https://player.vimeo.com/video/524147082?autoplay=0&loop=1&autopause=0&muted=1&quality=1080p&background=1" height="182px" frameborder="0"></iframe>
+  <iframe src="https://player.vimeo.com/video/524147082?autoplay=1&loop=1&autopause=0&muted=1&quality=1080p&background=1" height="182px" frameborder="0"></iframe>
 </div>
 </div>
 </div>
