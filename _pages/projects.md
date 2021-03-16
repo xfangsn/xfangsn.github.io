@@ -84,8 +84,9 @@ The applications I am currently studying as a part of my doctoral study are:
 
 </div>
 <div class="col-md-3 col-sm-12" style="background-color:transparent;">
-  <iframe src="https://player.vimeo.com/video/524095933?autoplay=1&loop=1&autopause=0&muted=1&quality=360p&background=1" width="400" height="400" style="border-style:solid;border-radius:5px;" frameborder="0" allow="autoplay"></iframe>
-
+<center>
+<iframe src="https://player.vimeo.com/video/524095933?autoplay=1&loop=1&autopause=0&muted=1&quality=360p&background=1" width="400" height="400" style="border-style:solid;border-radius:5px;" frameborder="0" allow="autoplay"></iframe>
+</center>
 </div>
 </div>
 </div>
