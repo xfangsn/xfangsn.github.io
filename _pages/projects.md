@@ -72,8 +72,8 @@ iframe {
 <b>Advisor:</b>
 <i> Professor Marc Hesse</i>
 
-Developing a 2D solver to simulate two immiscible fluids inside a viscously compacting porous solid. The solver is
-* Conservative finite-difference scheme based
+Developing a 2D solver to simulate two immiscible fluids inside a viscously compacting porous solid. The solver is based on:
+* Conservative finite-difference scheme
 * Second order in space and theta method in time
 * General framework for implementation in other fields
 
@@ -83,10 +83,14 @@ The applications I am currently studying as a part of my doctoral study are:
 * <a href="https://agu.confex.com/agu/fm20/webprogram/Paper712914.html" target="_blank">Groundwater filling times for large impact basins on early Mars and implications for the onset of post impact hydrothermal systems</a>
 
 </div>
-<div class="col-md-3 col-sm-12" style="background-color:transparent;">
+<div class="container">
+<div class="row">
 <center>
-<iframe src="https://player.vimeo.com/video/524095933?autoplay=1&loop=1&autopause=0&muted=1&quality=360p&background=1" width="400" height="400" style="border-style:solid;border-radius:5px;" frameborder="0" allow="autoplay"></iframe>
+<iframe src="https://player.vimeo.com/video/523324084?autoplay=1&loop=1&autopause=0&muted=1&quality=360p&background=1" width="400" height="400" style="border-style:solid;border-radius:5px;" frameborder="0" allow="autoplay"></iframe>
+<br>Filling of impact-formed crater lake on Mars. <br/>
+Hiatt, Shadab et al., <i>AGU Fall Meeting</i> (2020)
 </center>
+</div>
 </div>
 </div>
 </div>
