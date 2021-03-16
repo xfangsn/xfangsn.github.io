@@ -287,7 +287,6 @@ The tool can find the number of the repeating variables and also the linear depe
 
 Salient features of the Python program (<a href='https://github.com/mashadab/twitterwebscraper' target='_blank'>src</a>):
 
-* Calculates and can also print Tweets with a "keyword" for a specific period in a specific region
-* Doesn't require Twitter Official Access Token
-* Bypasses Twitter official time limit of 7 days
-
+* Calculates and can also print Tweets with a "keyword" for a specific period in a specific region in the world.
+* Doesn't require Twitter Official Access Token.
+* Bypasses Twitter official time limit of 7 days.
