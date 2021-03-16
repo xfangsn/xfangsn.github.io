@@ -83,6 +83,7 @@ The applications I am currently studying as a part of my doctoral study are:
 * <a href="https://agu.confex.com/agu/fm20/webprogram/Paper712914.html" target="_blank">Groundwater filling times for large impact basins on early Mars and implications for the onset of post impact hydrothermal systems</a>
 
 </div>
+</div>
 <div class="container">
 <div class="row">
 <center>
@@ -90,7 +91,6 @@ The applications I am currently studying as a part of my doctoral study are:
 <br>Filling of impact-formed crater lake on Mars. <br/>
 Hiatt, Shadab et al., <i>AGU Fall Meeting</i> (2020)
 </center>
-</div>
 </div>
 </div>
 </div>
@@ -103,7 +103,7 @@ Hiatt, Shadab et al., <i>AGU Fall Meeting</i> (2020)
 <b>Collaborators:</b>
 <i> DingCheng Luo, Yiran Shen, Eric Hiatt, and Professor Marc Hesse</i>
 
-Physics Informed Neural Networks (PINNs) is a state-of-the-art tool for finding data-driven solutions to PDEs and discovering parameters in a PDE from
+Physics Informed Neural Networks (PINNs) is a state-of-the-art tool for finding data-driven solutions to PDEs and discovering parameters in a PDE from
 a given data. In the present work, we have studied both, in the context of fluid
 drainage from the edge of a porous reservoir.
 We are investigating:
