@@ -210,9 +210,8 @@ Highlights:
  <h4>Hummingbird – Wearable Device for Exchanging Information</h4>
   
 <b>Co-Founders:</b>
-<i> Sal Amarsinghe, Dr. Nikhil Bhargava, Melody Mui and Dakota Pierce</i>
+<i> Sal Amarsinghe, Mohammad Afzal Shadab, Dr. Nikhil Bhargava, Melody Mui and Dakota Pierce</i>
 
-* <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-JCP-20.pdf" target="_blank">bubble-collapse-rebound</a>
 * Ideated and validated consumer problems and market opportunities through market research.
 * Designed prototype on AutoCAD, fabricated using 3D printing, and implemented fast & accurate algorithms.
 * Received MIT Sandbox Innovation Fund worth $5000 and won both Judge’s & Audience Awards at MIT
