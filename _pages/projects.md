@@ -156,12 +156,37 @@ Research highlights:
 </div>
 </div>
 
+<div class="jumbotron">
+<div class="row align-items-end">
+<div class="col-md-9 col-sm-12">
+ <h4> Solving Heat Equation using High-order Methods on Stampede2 Supercomputer</h4>
+  
+<b>Instructor:</b>
+<i> Professor Karl Schulz, University of Texas at Austin</i>
+
+Used Stampede2 supercomputer at Texas Advanced Computing Center to solve the steady-state heat equation in 1D and 2D. 
+Built and running the C++ codes, bash scripts and their testing mainly verification, regression, and runtime performance, which are present in the GitHub repository (currently private). 
+Libraries used:
+* GRVY for timekeeping and debugging
+* MASA for manufactured solutions
+* Bash automated testing system (bats) for designing regression tests
+* gcov and lcov for code coverage
+* Hierarchical Data Formatting (HDF5) for output file formatting
+* Portable Extensible Toolkit for Scientific Computation (PETSc) library with GMRES solver integration
+* Travis CI for continuous integration
+* Docker for containerization
+
+</div>
+<div class="col-md-3 col-sm-12" style="background-color:transparent;">
+  <iframe src="https://player.vimeo.com/video/524167291?autoplay=1&loop=1&autopause=0&muted=1&quality=1080p&background=1" height="182px" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+</div>
+</div>
 
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-9 col-sm-12">
- <h4> Investigation and Control of Unstart Phenomenon in
-Scramjets</h4>
+ <h4> Investigation and Control of Unstart Phenomenon in Scramjets</h4>
   
 <b>Advisor:</b>
 <i> Professor M.F. Baig, Aligarh Muslim University, India</i>
