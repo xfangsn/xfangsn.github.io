@@ -274,7 +274,6 @@ The Python GUI based tool can perform the dimensional analysis using Buckingham 
 </div>
 </div>
 
-
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-9 col-sm-12">
