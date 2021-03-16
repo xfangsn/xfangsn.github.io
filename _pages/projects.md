@@ -269,6 +269,7 @@ Entrepreneurship and Maker Skills Integrator program (2018).
 <i> Mohammad Afzal Shadab</i>
 
 The Python GUI based tool can perform the dimensional analysis using Buckingham Pi theorem (<a href='https://drive.google.com/drive/folders/1-BnQePbN60gHgodgULoHO3ArwdrybHyl' target='_blank'>exe</a>/<a href='https://github.com/mashadab/dimensional-analysis' target='_blank'>src</a>) with Youtube tutorial.
+The tool can find the number of the repeating variables and also the linear dependence in between them.
 
 </div>
 <div class="col-md-3 col-sm-12" style="background-color:transparent;">
