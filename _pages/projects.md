@@ -145,7 +145,7 @@ Here we show that the <a href="https://meetings.aps.org/Meeting/DFD20/Session/S0
 High-order reconstruction represents the state-of-the-art computational physics. The main ideas in using <a href="https://users.soe.ucsc.edu/~dongwook/wp-content/uploads/2019/ams260/_build/html/_downloads/Shu_wenoConvection_2009.pdf" target="_blank">Weighed Essentially Non-Oscillatory schemes</a> to solve various hyperbolic PDEs and other convection dominated problems, and present a collection of applications in areas including computational fluid dynamics, computational astronomy and astrophysics, semiconductor device simulation, traffic flow models, computational biology and some non-PDE applications.
 Research highlights:
 * Proposed <a href="{{ site.url }}{{ site.baseurl }}/papers/shadab_fifthWENO_CnF_2019.pdf" target="_blank">fifth order finite volume WENO-C in orthogonally-curvilinear coordinates</a>.
-* WENO-Curvilinear reconstruction and averaging weights provided for standard grids.
+* WENO-Curvilinear reconstruction and averaging weights provided for standard grids (<a href="https://github.com/mashadab/WENO-curvilinear" target="_blank">src</a>).
 * Analytical values of weights for Radius → ∞ case conform to conventional WENO-JS.
 * Tests performed in <a href="{{ site.url }}{{ site.baseurl }}/papers/shadab_ICOSAHOM_2020.pdf" target="_blank">curvilinear coordinates</a> testify for fifth order & ENO properties.
 
