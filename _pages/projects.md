@@ -67,7 +67,7 @@ iframe {
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-9 col-sm-12">
- <h4>Two Phase Flow in Viscously Compacting Matrix</h4>
+ <h4>Two Phase Flow in a Viscously Compacting Matrix</h4>
   
 <b>Advisor:</b>
 <i> Professor Marc Hesse</i>
@@ -119,7 +119,7 @@ the data does not perfectly match the PDEs or scaling of the misfit terms.
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-9 col-sm-12">
- <h4> Bio-polymers for Pharma</h4>
+ <h4> Suppression of drop breakup in a viscoelastic bath</h4>
   
 <b>Advisor:</b>
 <i> Professor Irmgard Bischofberger</i>
@@ -129,7 +129,7 @@ Here we show that the <a href="https://meetings.aps.org/Meeting/DFD20/Session/S0
 
 </div>
 <div class="col-md-3 col-sm-12" style="background-color:transparent;">
-  <iframe src="https://player.vimeo.com/video/524103920?autoplay=1&loop=1&autopause=0&muted=1&quality=240p&background=1" height="182px" frameborder="0" allow="autoplay"></iframe>
+  <iframe src="https://player.vimeo.com/video/524103920?autoplay=1&loop=1&autopause=0&muted=1&quality=240p&background=1" height="182px" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 </div>
 </div>
