@@ -215,7 +215,7 @@ Highlights:
 * Ideated and validated consumer problems and market opportunities through market research.
 * Designed prototype on AutoCAD, fabricated using 3D printing, and implemented fast & accurate algorithms.
 * Received MIT Sandbox Innovation Fund worth $5000 and won both Judge’s & Audience Awards at MIT
-Entrepreneurship and Maker Skills Integrator program (2018). (<a href="https://www.youtube.com/watch?v=CGnusIgcISs" target="_blank">Winning pitch video</a>)
+Entrepreneurship and Maker Skills Integrator program (2018).
 
 </div>
 <div class="col-md-3 col-sm-12" style="background-color:transparent;">
