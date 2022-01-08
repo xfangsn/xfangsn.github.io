@@ -1,3 +1,15 @@
+- title: "Investigating Steady Unconfined Groundwater Flow using Physics Informed Neural Networks"
+  authors: "<M.A. Shadab, M.A. and D. Luo, D and Y. Shen and E. Hiatt and M.A. Hesse"
+  url: shadab_PINNsGWflow
+  image: 
+  journal: "Water Resources Research (submitted)"
+  info: 
+  year: 2021
+  doi: https://arxiv.org/abs/2112.13792
+  abstract: A novel deep learning technique called Physics Informed Neural Networks (PINNs) is adapted to study steady groundwater flow in unconfined aquifers. This technique utilizes information from underlying physics represented in the form of partial differential equations (PDEs) alongside data obtained from physical observations. In this work, we consider the Dupuit-Boussinesq equation, which is based on the Dupuit-Forchheimer approximation, as well as a recent more complete model derived by \cite{di2018unsteady} as underlying models. We then train PINNs on data obtained from steady-state analytical solutions and laboratory based experiments. 
+
+Using PINNs, we predict phreatic surface profiles given different input flow conditions and recover estimates for the hydraulic conductivity from the experimental observations. We show that PINNs can eliminate the inherent inability of the Dupuit-Boussinesq equation to predict flows with seepage faces. Moreover, the inclusion of physics information from the Di Nucci and Dupuit-Boussinesq models constrains the solution space and produces better predictions than solely the training data. PINNs based predictions are very robust and show little effect from added noise in the training data. Further, we compare the PINNs obtained using the two different flow models to examine the effects of higher order flow terms, which are neglected by the Dupuit Forchheimer approximation. We found a dimensionless parameter $π \Pi$, which is the ratio of vertical to horizontal flow effects. For $\Pi \leq 0.1$, Dupuit-Boussinesq approximation is found to be applicable but not otherwise. Lastly, we discuss the effectiveness of using PINNs for examining groundwater flow."
+
 
 - title: "Fifth-order finite-volume WENO on cylindrical grids"
   authors: "M.A. Shadab and X. Ji and K. Xu"
