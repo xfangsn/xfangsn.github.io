@@ -1,16 +1,16 @@
 - name: Xingli Fang
   photo: rock.jpg
   info: PhD Student, North Carolina State University
-  email: mashadab@utexas.edu
+  email: xfang13@syr.edu
   github: https://github.com/mashadab
   linkedin: https://www.linkedin.com/in/mafzalshadab/
   #researchgate: https://www.researchgate.net/profile/Mohammad-Afzal-Shadab
   scholar: https://scholar.google.com.hk/citations?user=-E3HBR0AAAAJ&hl=en
   cv: cv_afzal.pdf
   number_educ: 3
-  education1: (2023-) M.S. and Ph.D. Student in Computational Science, Engineering and Mathematics, <br>University of Texas at Austin (with <a href="https://www.jsg.utexas.edu/hesse/" target="_blank">Marc Hesse</a>)
-  education2: (2021-2022) Visiting Graduate Student, <br>Massachusetts Institute of Technology (with <a href="https://www.mitfluidslab.com/" target="_blank">Irmgard Bischofberger</a>)
-  education3: (2017-2021) M.Phil. Mechanical Engineering,<br> Hong Kong University of Science & Technology (with <a href="http://www.math.ust.hk/~makxu/" target="_blank">Kun Xu</a>)
+  education1: (2023-) Ph.D. Computer Science, <br>North Carolina State University
+  education2: (2021-2022) M.S., Computer Engineering, <br>Syracuse University
+  education3: (2017-2021) M.Phil. Mechanical Engineering,<br>Northeastern University (China)
   education1short: (2023-) Ph.D. Comp Sci, NCSU
   education2short: (2021-22) M.S., Comp Eng, Syracuse Uni. 
   education3short: (2017-21) B.Eng. Softw Eng, NEU(China)
