@@ -75,6 +75,7 @@ permalink: /about/
 </div>
 {% endif %}
 
+<!--
 {% if site.data.grants %}
 <div class="jumbotron">
 ### Conference Grants and Funded Short Schools
@@ -96,3 +97,4 @@ permalink: /about/
 </ul>
 </div>
 {% endif %}
+-->
