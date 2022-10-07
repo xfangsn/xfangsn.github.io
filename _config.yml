@@ -1,7 +1,7 @@
 # Site settings
-title: Mohammad Afzal Shadab
-email: mashadab@utexas.edu
-description: Academic webpage of Mohammad Afzal Shadab
+title: Xingli Fang
+email: xfang13@syr.edu
+description: Academic webpage of Xingli Fang
 baseurl: ""
 url: ""
 
@@ -11,31 +11,31 @@ google_analytics:
 
 # Footer info
 affiliation: >
-    Mohammad Afzal Shadab<br/>
-    Doctoral Student <br/>
-    <a href="https://www.oden.utexas.edu/" target="_blank">Institute for Computational Engineering and Sciences </a><br/> University of Texas at Austin
+    Xingli Fang<br/>
+    Ph.D. Student <br/>
+    <a href="https://www.csc.ncsu.edu/" target="_blank">Computer Science </a><br/> North Carolina State University
 
 location: >
-  <a href="https://www.jsg.utexas.edu/hesse/marc-hesse/" target="_blank">Geological Fluid Mechanics Group, UT Austin</a><br/>
-  POB 3SEo5M <br/>
-  Austin, TX 78712-1199
+#  <a href="https://www.jsg.utexas.edu/hesse/marc-hesse/" target="_blank">Geological Fluid Mechanics Group, UT Austin</a><br/>
+#  POB 3SEo5M <br/>
+#  Austin, TX 78712-1199
 
 contact: >
-    <a href="mailto:mashadab@utexas.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Afzal via email</a> <br/>
-    <a href="/aboutwebsite.html"><i class="fa fa-github fa-1x"></i> Acknowledgements!</a>
+    <a href="mailto:xfang13@syr.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact X.Fang via email</a> <br/>
+#    <a href="/aboutwebsite.html"><i class="fa fa-github fa-1x"></i> Acknowledgements!</a>
 
 # Pages shown in navbar
 nav_pages:
   - name: about
   - name: publications
-  - name: talks
-  - name: projects
+#  - name: talks
+#  - name: projects
 #  - name: laboratory
 #  - name: team
   - name: teaching
 
 # Do you want to group your publications by year? {true/false}
-group_pub_by_year: true
+group_pub_by_year: false
 
 include:
   - .htaccess

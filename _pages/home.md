@@ -4,7 +4,7 @@ layout: homelay
 sitemap: false
 permalink: /
 ---
-
+<!--
 ### Welcome!
 
 Fluid mechanics spans diverse fields of science and engineering. I am a fluids enthusiast who aspires to become a **computational scientist** and hopes to solve real-world problems with applied mathematics and numerical simulations.
@@ -23,11 +23,7 @@ Hiatt, Shadab et al., <i>AGU Fall Meeting</i> (2020)
 </div>
 </div>
 <br/>
-
+-->
 ### About me
 
-I am an M.S. and Ph.D. Student in the Oden Institute for Computational Engineering and Sciences at the University of Texas at Austin, working with <a href="https://www.jsg.utexas.edu/hesse/marc-hesse/" target="_blank">Professor Marc Hesse</a>.
-Since 2020, I have been serving as the President of the <a href="https://siam.oden.utexas.edu" target="_blank">Society of Industrial and Applied Mathematics Chapter at UT Austin</a>.
-Previously, I was a Visiting Graduate Student Researcher at the MIT Fluids Laboratory working with <a href="https://www.mitfluidslab.com/" target="_blank">Professor Irmgard Bischofberger</a>. 
-I hold an M.Phil. degree in Mechanical Engineering from the Hong Kong University of Science and Technology where I worked with <a href="https://www.math.hkust.edu.hk/~makxu/" target="_blank">Professor Kun Xu</a> (2018). 
-Lastly, I hold a B.Tech. degree in Mechanical Engineering from <a href="https://amu.ac.in/" target="_blank">Aligarh Muslim University</a>, India (2016).
+Welcome! I am Xingli Fang.
