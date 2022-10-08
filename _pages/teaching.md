@@ -8,4 +8,4 @@ permalink: /teaching/
 ## Teaching
 
 * Teaching Assistant, North Carolina State University
-    * [Course Number] Course--2023
+    * MECH-3690 Aerospace Engineering Laboratory (Junior and Senior Level)--2023
