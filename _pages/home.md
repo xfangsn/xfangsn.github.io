@@ -4,9 +4,11 @@ layout: homelay
 sitemap: false
 permalink: /
 ---
-<!--
-### Welcome!
 
+### Welcome!
+My research interests are in
+
+<!--
 Fluid mechanics spans diverse fields of science and engineering. I am a fluids enthusiast who aspires to become a **computational scientist** and hopes to solve real-world problems with applied mathematics and numerical simulations.
 In the past, I have had the pleasure to work in diverse fields of fluid mechanics and numerical methods such as <a href="{{ site.url }}{{ site.baseurl }}/papers/shadab_fifthWENO_CnF_2019.pdf" target="_blank">high order methods</a>, laminar & turbulent combustion, <a href="{{ site.url }}{{ site.baseurl }}/papers/shadab_Scramjet_2017.pdf" target="_blank">hypersonic flows</a>, 
 and <a href="https://meetings.aps.org/Meeting/DFD20/Session/S03.3" target="_blank">viscoelastic fluids</a>.
@@ -26,4 +28,4 @@ Hiatt, Shadab et al., <i>AGU Fall Meeting</i> (2020)
 -->
 ### About me
 
-Welcome! I am Xingli Fang (方星力 in Chinese), a Ph.D. student in Computer Science advised by Dr. Jung-Eun Kim. Prior to that, I got my M.S. of Computer Engineering from Syracuse University and B.Eng. of Software Engineering from Northeastern University (China).
+I am Xingli Fang (方星力 in Chinese), a Ph.D. student at North Carolina State University in Computer Science advised by Dr. Jung-Eun Kim. Prior to that, I got my M.S. of Computer Engineering from Syracuse University and B.Eng. of Software Engineering from Northeastern University (China).
