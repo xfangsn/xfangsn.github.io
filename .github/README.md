@@ -1,8 +1,8 @@
 # Xingli Fang's academic website
 
-This is a statically-generated Jekyll/Liquid/Bootstrap-based website. Thanks to the beatiful template created by Dr. Bryngelson: [Dr. Spencer H. Bryngelson](https://bryngelson-research.com/).
+This is a statically-generated Jekyll/Liquid/Bootstrap-based website. Thanks to the beatiful template created by Dr. Bryngelson: [Dr. Spencer H. Bryngelson](https://comp-physics.group/).
 
-If you want to use this template, Follow the [Instructions](https://bryngelson-research.com/aboutwebsite.html) and the [Repository](https://github.com/sbryngelson/sbryngelson.github.io).
+If you want to use this template, Follow the [Repository](https://github.com/sbryngelson/academic-website-template).
 
 ## [](https://github.com/xfangsn/xfangsn.github.io#license)License
 
