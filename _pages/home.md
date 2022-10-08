@@ -26,4 +26,4 @@ Hiatt, Shadab et al., <i>AGU Fall Meeting</i> (2020)
 -->
 ### About me
 
-Welcome! I am Xingli Fang, a Ph.D. student in Computer Science advised by Dr. Jung-Eun Kim. Prior to that, I got my M.S. of Computer Engineering from Syracuse University and B.Eng. of Software Engineering from Northeastern University (China).
+Welcome! I am Xingli Fang (方星力 in Chinese), a Ph.D. student in Computer Science advised by Dr. Jung-Eun Kim. Prior to that, I got my M.S. of Computer Engineering from Syracuse University and B.Eng. of Software Engineering from Northeastern University (China).
