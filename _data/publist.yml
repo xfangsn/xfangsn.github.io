@@ -1,14 +1,14 @@
 
 
-- title: "Investigating Steady Unconfined Groundwater Flow using Physics Informed Neural Networks"
-  authors: "M.A. Shadab and D. Luo and Y. Shen and E. Hiatt and M.A. Hesse"
+- title: "Realtime prediction of hard rock TBM advance rate using temporal convolutional network (TCN) with tunnel construction big data."
+  authors: "Liu, Zaobao and Wang, Yongchen and Li, Long and Fang, Xingli and Wang, Junze"
   url: 
   image: 
-  journal: "Water Resources Research (submitted)"
+  journal: "Frontiers of Structural and Civil Engineering"
   info: 
-  year: 2021
-  doi: https://arxiv.org/abs/2112.13792
-  abstract: “A novel deep learning  technique called Physics Informed Neural Networks (PINNs) is adapted to study steady groundwater flow in unconfined aquifers. This technique utilizes information from underlying physics represented in the form of partial differential equations (PDEs) alongside data obtained from physical observations. In this work, we consider the Dupuit-Boussinesq equation, which is based on the Dupuit-Forchheimer approximation, as well as a recent more complete model derived by Di Nucci (2018) as underlying models. We then train PINNs on data obtained from steady-state analytical solutions and laboratory based experiments."
+  year: 2022
+  doi: https://doi.org/10.1007/s11709-022-0823-3
+  abstract: "Real-time dynamic adjustment of the tunnel bore machine (TBM) advance rate according to the rock-machine interaction parameters is of great significance to the adaptability of TBM and its efficiency in construction. This paper proposes a real-time predictive model of TBM advance rate using the temporal convolutional network (TCN), based on TBM construction big data. The prediction model was built using an experimental database, containing 235 data sets, established from the construction data from the Jilin Water-Diversion Tunnel Project in China. The TBM operating parameters, including total thrust, cutterhead rotation, cutterhead torque and penetration rate, are selected as the input parameters of the model. The TCN model is found outperforming the recurrent neural network (RNN) and long short-term memory (LSTM) model in predicting the TBM advance rate with much smaller values of mean absolute percentage error than the latter two. The penetration rate and cutterhead torque of the current moment have significant influence on the TBM advance rate of the next moment. On the contrary, the influence of the cutterhead rotation and total thrust is moderate. The work provides a new concept of real-time prediction of the TBM performance for highly efficient tunnel construction."
 
 - title: "Hard-rock tunnel lithology prediction with TBM construction big data using a global-attention-mechanism-based LSTM network"
   authors: "Liu, Zaobao and Li, Long and Fang, Xingli and Qi, Wenbiao and Shen, Jimei and Zhou, Hongyuan and Zhang, Yulong"
@@ -18,4 +18,4 @@
   info: 
   year: 2021
   doi: https://doi.org/10.1016/j.autcon.2021.103647
-  abstract: The TBM-constructed rock tunnel often suffers from low comparability of efficiency between geological condition detection and the TBM real-time operation requirements. This article developed a time-related intelligent model for tunnel lithology prediction using TBM construction big data with illustration by the Yinsong Water Diversion Project. The global attention mechanism based long-short-term-memory (LSTM) network was established to model the cyclic TBM construction data and make predictions of lithology at the tunnel face with 9 selected featuring input parameters. The established global-attention-mechanism-based LSTM network was found to predict well tunnel lithology with TBM construction data and outperformed the conventional LSTM network and other models in accuracy and F1-scores. The results could help the TBM drivers to adjust the operational parameters at real time for high-efficient tunnel construction. With implementation of the establish model into the TBM operational system, we will develop intelligence construction mode for the long TBM-constructed hard rock tunnels.
+  abstract: "The TBM-constructed rock tunnel often suffers from low comparability of efficiency between geological condition detection and the TBM real-time operation requirements. This article developed a time-related intelligent model for tunnel lithology prediction using TBM construction big data with illustration by the Yinsong Water Diversion Project. The global attention mechanism based long-short-term-memory (LSTM) network was established to model the cyclic TBM construction data and make predictions of lithology at the tunnel face with 9 selected featuring input parameters. The established global-attention-mechanism-based LSTM network was found to predict well tunnel lithology with TBM construction data and outperformed the conventional LSTM network and other models in accuracy and F1-scores. The results could help the TBM drivers to adjust the operational parameters at real time for high-efficient tunnel construction. With implementation of the establish model into the TBM operational system, we will develop intelligence construction mode for the long TBM-constructed hard rock tunnels."
