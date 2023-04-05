@@ -11,8 +11,8 @@ I am Xingli Fang (方星力 in Chinese), a Ph.D. student at North Carolina State
 - **Machine Learning:** Network Compression, Privacy, Fairness
 
 ## News
-- **[Apr. 2023]** I get awarded a Summer Graduate Award (GMA), thanks for my department.
+- **[Apr. 2023]** I get awarded a Summer Graduate Award (SGA), thanks for my department.
 - **[Jan. 2023]** I join in NCSU as a Ph.D. student.
 
 ## Awards
-- **[Apr. 2023]** Summer Graduate Award (GMA)
+- Summer Graduate Award (SGA) [2023]
