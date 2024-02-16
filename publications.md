@@ -26,6 +26,13 @@ title: Publications
   Automation in Construction 125 (2021): 103647.
   <br>
 
+## Workshops
+- **Cooperative Learning for Cost-Adaptive Inference**
+  <br>
+  ***Fang, Xingli***, Richard M. Bradford, and Jung-Eun Kim
+  <br>
+  Workshop on Advancing Neural Network Training: Computational Efficiency, Scalability, and Resource Optimization (WANT@ NeurIPS 2023). 2023.
+  <br>
 
 <!-- 
 - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
