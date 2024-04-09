@@ -1,15 +1,40 @@
-# Xingli Fang's academic website
+# xfangsn.github.io
 
-This is a statically-generated Jekyll/Liquid/Bootstrap-based website. Thanks to the beatiful template created by Dr. Bryngelson: [Dr. Spencer H. Bryngelson](https://comp-physics.group/).
+[![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-light?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/yaoyao-liu/yaoyao-liu.github.io/blob/main/LICENSE)
 
-If you want to use this template, Follow the [Repository](https://github.com/sbryngelson/academic-website-template).
+This is the latest version of my homepage's source code, which is derived from Dr. Yaoyao Liu. Feel free to use and share.
+<br />
+For more details, please refer to this repository: <https://github.com/yaoyao-liu/minimal-light>.
 
-## [](https://github.com/xfangsn/xfangsn.github.io#license)License
+### Using Locally with Jekyll
 
-Copyright 2022, Xingli Fang
+You need to install [Ruby](https://www.ruby-lang.org/en/) and [Jekyll](https://jekyllrb.com/) fisrt.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Install and run:
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+```bash
+bundle install
+bundle exec jekyll server
+```
+View the live page using `localhost`:
+<http://localhost:4000>. You can get the html files in the `_site` folder.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+### Google Scholar Crawler
+
+The instructions for the Google Scholar crawler can be found in [this repository](https://github.com/RayeRen/acad-homepage.github.io).
+<br>
+Before using that, you need to change the Google Scholar ID in the following file:
+https://github.com/yaoyao-liu/yaoyao-liu.github.io/blob/7d16d828a229580815428782fb74d937710eb50e/google_scholar_crawler/main.py#L7
+
+
+### Acknowledgements
+
+This project uses the source code from the following repositories:
+
+* [pages-themes/minimal](https://github.com/pages-themes/minimal)
+
+* [orderedlist/minimal](https://github.com/orderedlist/minimal)
+
+* [al-folio](https://github.com/alshedivat/al-folio)
+
+* [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io)
