@@ -1,0 +1,44 @@
+conference:
+  #- title: Cooperative Learning for Cost-Adaptive Inference
+  #  authors: <strong>Xingli Fang</strong>, Richard Bradford, Jung-Eun Kim<sup><i class="fa-regular fa-envelope fa-xs"></i></sup>
+  #  conference_short: WANT@NeurIPS
+  #  conference: "Workshop on Advancing Neural Network Training: Computational Efficiency, Scalability, and Resource Optimization, 2023."
+  #  pdf: https://arxiv.org/pdf/2312.08532
+  #  # code: https://github.com/xinzheli1217/learning-to-self-trai
+  #  page: https://openreview.net/forum?id=2KYHntOYKw
+  #  bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:FOEljVIU87sJ:scholar.google.com/&output=citation&scisdr=ClEobhnPEJTrxYmlXUI:AFWwaeYAAAAAZhWjRULvYeTsjyz_RxU8W6jkWlE&scisig=AFWwaeYAAAAAZhWjRRw0ky1MQHLfKX0DUPbqDw4&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+  #  image: https://arxiv.org/html/2312.08532v2/x6.png
+
+workshop:
+  - title: Cooperative Learning for Cost-Adaptive Inference
+    authors: <strong>Xingli Fang</strong>, Richard Bradford, Jung-Eun Kim<sup><i class="fa-regular fa-envelope fa-xs"></i></sup>
+    conference_short: WANT@NeurIPS
+    conference: "Workshop on Advancing Neural Network Training: Computational Efficiency, Scalability, and Resource Optimization, 2023."
+    pdf: https://arxiv.org/pdf/2312.08532
+    # code: https://github.com/xinzheli1217/learning-to-self-trai
+    page: https://openreview.net/forum?id=2KYHntOYKw
+    # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:FOEljVIU87sJ:scholar.google.com/&output=citation&scisdr=ClEobhnPEJTrxYmlXUI:AFWwaeYAAAAAZhWjRULvYeTsjyz_RxU8W6jkWlE&scisig=AFWwaeYAAAAAZhWjRRw0ky1MQHLfKX0DUPbqDw4&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+    image: https://arxiv.org/html/2312.08532v2/x6.png
+
+journal:
+  - title: Realtime Prediction of Hard Rock TBM Advance Rate using Temporal Convolutional Network (TCN) With Tunnel Construction Big Data
+    authors: Zaobao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup>,Yongchen Wang, Long Li, <strong>Xingli Fang</strong>, Junze Wang
+    # conference_short:
+    conference: Frontiers of Structural and Civil Engineering, 2022.
+    pdf: https://link.springer.com/content/pdf/10.1007/s11709-022-0823-3.pdf
+    # code:
+    page: https://link.springer.com/article/10.1007/s11709-022-0823-3
+    # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:NZGEy3ujCC0J:scholar.google.com/&output=citation&scisdr=ClEobhnPEJTrxYmYZ2Q:AFWwaeYAAAAAZhWef2R_Qq9e3BVxUKdA0E6Bw1Q&scisig=AFWwaeYAAAAAZhWef-E7S0zQTgtsxg73nWn-cps&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+    image: https://www.researchgate.net/profile/Zaobao-Liu-liuzaobao/publication/361573354/figure/fig3/AS:11431281090690668@1666140386147/Comparison-of-absolute-errors-of-all-models.jpg
+    # notes:
+
+  - title: Hard-rock Tunnel Lithology Prediction with TBM Construction Big Data using A Global-Attention-Mechanism-Based LSTM Network
+    authors: Zaobao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup>,Long Li, <strong>Xingli Fang</strong>, Wenbiao Qi, Jimei Shen, Hongyuan Zhou, Yulong Zhang
+    # conference_short:
+    conference: Automation in Construction, 2021.
+    pdf: https://www.sciencedirect.com/science/article/pii/S0926580521000984/pdfft?md5=6dd3a19c8e94e0d698b6fff78584afa8&pid=1-s2.0-S0926580521000984-main.pdf
+    # code:
+    page: https://www.sciencedirect.com/science/article/pii/S0926580521000984
+    # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iObnrS_Z6C8J:scholar.google.com/&output=citation&scisdr=ClEobhnPEJTrxYmZch4:AFWwaeYAAAAAZhWfah4HrV3U0DjvUTF3tzdIWuc&scisig=AFWwaeYAAAAAZhWfatA0ue74SDm6fDLgI4b8LkE&scisf=4&ct=citation&cd=-1&hl=en
+    image: https://ars.els-cdn.com/content/image/1-s2.0-S0926580521000984-gr6.jpg
+    # notes:

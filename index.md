@@ -2,23 +2,32 @@
 layout: homepage
 ---
 
-## About Me
+<h1 id="about-me"></h1>
+
+<h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
 I am Xingli Fang (方星力 in Chinese), a Ph.D. student at North Carolina State University advised by [Dr. Jung-Eun Kim](https://jungeunkim.wordpress.ncsu.edu/). Prior to that, I got my Master Degree (Computer Engineering) from Syracuse University and Bachelor Degree (Software Engineering) from Northeastern University (China).
 
-## Education
-- M.S. in Computer Engineering, Syracuse University 2021-2022
-- B.Eng. in Software Engineering, Northeastern University, 2017-2021
+My current research lies at **trustworthy machine learning** -- with a special focus on building privacy-safe and efficient ML. My research interests include **privacy**, **efficient AI**, **semi-supervised learning**, and **generative models**.
 
-## Research Interests
+<!-- <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600"></strong></strong> -->
 
-- **Machine Learning:** Network Compression, Privacy, Fairness
+{% include_relative _includes/news.md %}
 
-## News
-- **[Dec. 2023]** I get awarded a Academic Travel Grants, thanks for my department.
-- **[Apr. 2023]** I get awarded a Summer Graduate Award (SGA), thanks for my department.
-- **[Jan. 2023]** I join in NCSU as a Ph.D. student.
+{% include_relative _includes/education.md %}
 
-## Awards
-- Departmental Travel Grants [2023]
-- Summer Graduate Award (SGA) [2023]
+{% include_relative _includes/publications.md %}
+
+<!--
+{% include_relative _includes/teaching.md %}
+-->
+<!--
+{% include_relative _includes/talks.md %}
+-->
+<!--
+{% include_relative _includes/services.md %}
+-->
+
+{% include_relative _includes/award.md %}
+
+{% include_relative _includes/contact.md %}
