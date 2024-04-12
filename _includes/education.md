@@ -35,7 +35,7 @@ Education
         Department of Computer Science
         </span></h3>
         <p>
-        Ph.D. in Computer Science,  [2023-Ongoing]
+        Ph.D. in Computer Science,  [2023 Spring-Ongoing]
         </p>
     </div>
 </div>
@@ -47,7 +47,7 @@ Education
         Department of Electrical Eng. and Computer Sci.
         </span></h3>
         <p>
-        M.S. in Computer Engineering,  [2021-2022]
+        M.S. in Computer Engineering,  [2021 Fall - 2022 Winter]
         </p>
     </div>
 </div>
@@ -59,7 +59,7 @@ Education
         Software College
         </span></h3>
         <p>
-        B.Eng. in Software Engineering,  [2017-2021]
+        B.Eng. in Software Engineering,  [2017 Fall - 2021 Summer]
         </p>
     </div>
 </div>
