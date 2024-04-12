@@ -10,7 +10,11 @@ I am Xingli Fang (方星力 in Chinese), a Ph.D. student at North Carolina State
 
 My current research lies at **trustworthy machine learning** -- with a special focus on building privacy-safe and efficient ML. My research interests include **privacy**, **efficient AI**, **semi-supervised learning**, and **generative models**.
 
-<!-- <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600"></strong></strong> -->
+<!-- 
+<strong style="color:#e74d3c; font-weight:600">
+
+</strong> 
+-->
 
 {% include_relative _includes/news.md %}
 
