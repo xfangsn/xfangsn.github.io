@@ -53,6 +53,31 @@
       }
       }
    </script>
+
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            min-height: 100vh;
+            flex-direction: column;
+        }
+        main {
+            flex: 1;
+        }
+        .copyright {
+            text-align: center;
+            padding: 20px 0;
+            background-color: #f2f2f2;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+        .line-above {
+            border-top: 1px solid #ddd;
+            margin-top: 20px;
+        }
+    </style>
    
 
   </head>
@@ -214,6 +239,6 @@
         <br>
       </footer>
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script src="{{ "./assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
 </html>

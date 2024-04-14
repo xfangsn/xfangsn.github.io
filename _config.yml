@@ -37,8 +37,8 @@ master_logo: ./assets/img/syracuse-logo.svg
 phd_logo: ./assets/img/ncsu-logo.svg
 
 # Footnotes
-# footnote: derived from Yaoyao's website source code.
-# footnote_link: https://github.com/yaoyao-liu/minimal-light
+#footnote: "2024 Xingli Fang"
+#footnote_link: https://github.com/yaoyao-liu/minimal-light
 
 # Analytics
 # Please remove the following lines about analytics services if you fork my project. 
