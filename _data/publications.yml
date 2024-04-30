@@ -14,7 +14,7 @@ workshop:
     authors: <strong>Xingli Fang</strong>, Richard Bradford, Jung-Eun Kim<sup><i class="fa-regular fa-envelope fa-xs"></i></sup>
     conference_short: WANT@NeurIPS
     conference: "Workshop on Advancing Neural Network Training: Computational Efficiency, Scalability, and Resource Optimization, 2023."
-    pdf: https://arxiv.org/pdf/2312.08532
+    pdf: https://arxiv.org/abs/2312.08532
     # code: https://github.com/xinzheli1217/learning-to-self-trai
     page: https://openreview.net/forum?id=2KYHntOYKw
     # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:FOEljVIU87sJ:scholar.google.com/&output=citation&scisdr=ClEobhnPEJTrxYmlXUI:AFWwaeYAAAAAZhWjRULvYeTsjyz_RxU8W6jkWlE&scisig=AFWwaeYAAAAAZhWjRRw0ky1MQHLfKX0DUPbqDw4&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
@@ -36,7 +36,7 @@ journal:
     authors: Zaobao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup>,Long Li, <strong>Xingli Fang</strong>, Wenbiao Qi, Jimei Shen, Hongyuan Zhou, Yulong Zhang
     # conference_short:
     conference: Automation in Construction, 2021.
-    pdf: https://www.sciencedirect.com/science/article/pii/S0926580521000984/pdfft?md5=6dd3a19c8e94e0d698b6fff78584afa8&pid=1-s2.0-S0926580521000984-main.pdf
+    pdf: https://www.sciencedirect.com/science/article/pii/S0926580521000984
     # code:
     page: https://www.sciencedirect.com/science/article/pii/S0926580521000984
     # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iObnrS_Z6C8J:scholar.google.com/&output=citation&scisdr=ClEobhnPEJTrxYmZch4:AFWwaeYAAAAAZhWfah4HrV3U0DjvUTF3tzdIWuc&scisig=AFWwaeYAAAAAZhWfatA0ue74SDm6fDLgI4b8LkE&scisf=4&ct=citation&cd=-1&hl=en
