@@ -1,13 +1,13 @@
 conference:
-  #- title: Cooperative Learning for Cost-Adaptive Inference
-  #  authors: <strong>Xingli Fang</strong>, Richard Bradford, Jung-Eun Kim<sup><i class="fa-regular fa-envelope fa-xs"></i></sup>
-  #  conference_short: WANT@NeurIPS
-  #  conference: "Workshop on Advancing Neural Network Training: Computational Efficiency, Scalability, and Resource Optimization, 2023."
-  #  pdf: https://arxiv.org/pdf/2312.08532
-  #  # code: https://github.com/xinzheli1217/learning-to-self-trai
-  #  page: https://openreview.net/forum?id=2KYHntOYKw
-  #  bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:FOEljVIU87sJ:scholar.google.com/&output=citation&scisdr=ClEobhnPEJTrxYmlXUI:AFWwaeYAAAAAZhWjRULvYeTsjyz_RxU8W6jkWlE&scisig=AFWwaeYAAAAAZhWjRRw0ky1MQHLfKX0DUPbqDw4&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
-  #  image: https://arxiv.org/html/2312.08532v2/x6.png
+  - title: Center-Based Relaxed Learning Against Membership Inference Attacks
+    authors: <strong>Xingli Fang</strong>, Jung-Eun Kim<sup><i class="fa-regular fa-envelope fa-xs"></i></sup>
+    conference_short: "UAI 24"
+    conference: "Proceedings of the 40th Conference on Uncertainty in Artificial Intelligence, 2024."
+    pdf: https://arxiv.org/abs/2404.17674
+    # code: https://github.com/xinzheli1217/learning-to-self-trai
+    page: https://arxiv.org/abs/2404.17674
+    # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:FOEljVIU87sJ:scholar.google.com/&output=citation&scisdr=ClEobhnPEJTrxYmlXUI:AFWwaeYAAAAAZhWjRULvYeTsjyz_RxU8W6jkWlE&scisig=AFWwaeYAAAAAZhWjRRw0ky1MQHLfKX0DUPbqDw4&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+    image: https://arxiv.org/html/2404.17674v1/x1.png
 
 workshop:
   - title: Cooperative Learning for Cost-Adaptive Inference
