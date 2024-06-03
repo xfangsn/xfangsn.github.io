@@ -212,12 +212,14 @@
         <a href="{{ site.footnote_link }}" rel="noopener">{{ site.footnote }}</a>
       </div>
       {% endif %}
-
       <br>
       {% if site.clustrmaps_id %}
+      <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=59oiun96fl7&amp;m=7&amp;c=ff0000&amp;cr1=4c86c2&amp;f=arial&amp;l=33" async="async"></script>
+      <div hidden>
       <div style="width:200px; pointer-events: none;">
         <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d={{ site.clustrmaps_id }}"></script>
-      </div>
+      </div></div>
+
       <!--{{ site.clustrmaps_id }}-->
       {% endif %}
       
