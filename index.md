@@ -28,9 +28,8 @@ My current research lies at **trustworthy machine learning** -- with a special f
 <!--
 {% include_relative _includes/talks.md %}
 -->
-<!--
+
 {% include_relative _includes/services.md %}
--->
 
 {% include_relative _includes/award.md %}
 
