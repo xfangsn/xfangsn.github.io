@@ -22,9 +22,8 @@ My current research lies at **trustworthy machine learning** -- with a special f
 
 {% include_relative _includes/publications.md %}
 
-<!--
 {% include_relative _includes/teaching.md %}
--->
+
 <!--
 {% include_relative _includes/talks.md %}
 -->
