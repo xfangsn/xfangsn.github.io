@@ -2,6 +2,8 @@
 
 <h2 style="margin: 60px 0px 10px;">Honors & Grants & Awards</h2>
 
+<strong>[May 2024]</strong> AIES'24 Student Travel Award, 7th AAAI Conference on AI, Ethics, and Society
+<br/>
 <strong>[Jul. 2024]</strong> Academic Travel Grants, Department of Comp. Sci., NC State University
 <br/>
 <strong>[May 2024]</strong> Scholarship, The Conference on Uncertainty in Artificial Intelligence (UAI) 2024
