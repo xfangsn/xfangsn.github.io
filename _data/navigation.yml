@@ -2,7 +2,10 @@ main:
 
   - title: "Contact"
     url: ./#contact 
-    right: true 
+    right: true
+
+  - title: "Awards"
+    url: ./#award
 
   - title: "Services"
     url: ./#services
