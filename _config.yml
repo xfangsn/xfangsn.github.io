@@ -21,10 +21,10 @@ enable_last_update: false
 # Links
 link_type: icon #text/icon
 google_scholar: https://scholar.google.com/citations?user=GJtATkAAAAAJ
-# cv_link: https://pages.jh.edu/yliu538/files/Yaoyao_Liu_Curriculum_Vitae.pdf
-# github_link: https://github.com/yaoyao-liu/
+# cv_link:
+# github_link:
 linkedin: https://www.linkedin.com/in/xingli-fang-7817b7231/
-# twitter: https://twitter.com/YaoyaoLiu1/
+# twitter:
 
 # Images 
 avatar: ./assets/img/avatar.jpg
@@ -37,8 +37,8 @@ master_logo: ./assets/img/syracuse-logo.svg
 phd_logo: ./assets/img/ncsu-logo.svg
 
 # Footnotes
-#footnote: "2024 Xingli Fang"
-#footnote_link: https://github.com/yaoyao-liu/minimal-light
+footnote: "2024 Xingli Fang"
+#footnote_link:
 
 # Analytics
 # Please remove the following lines about analytics services if you fork my project. 
