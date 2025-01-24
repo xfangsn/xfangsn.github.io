@@ -5,6 +5,9 @@ current:
   - date: "Jan 2025"
     content: "Serve as reviewer in ICML25"
 
+  - date: "Jan 2025"
+    content: "Serve as reviewer in IEEE VTC25"
+
   - date: "Oct 2024"
     content: "I get awarded AIES'24 Student Travel Award"
 
@@ -14,12 +17,13 @@ current:
   - date: "Jul. 2024"
     content: "One first-authored paper is accepted by AIES 2024."
 
-  - date: "Jul. 2024"
-    content: "I get awarded a Academic Travel Grants, thanks for my department."
+
 
 
 
 old:
+  - date: "Jul. 2024"
+    content: "I get awarded a Academic Travel Grants, thanks for my department."
   - date: "May 2024"
     content: "I get awarded a scholarship from UAI 2024"
   - date: "Apr. 2024"
