@@ -1,6 +1,6 @@
 current:
-  #- date: "Jan 2025"
-  #  content: "Serve as reviewer in UAI25"
+  - date: "Mar 2025"
+    content: "I will work as a student intern for AT&T Labs in the upcoming summer"
 
   - date: "Jan 2025"
     content: "Serve as reviewer in ICML25"
@@ -11,26 +11,22 @@ current:
   - date: "Oct 2024"
     content: "I get awarded AIES'24 Student Travel Award"
 
-  - date: "Oct 2024"
-    content: "I get awarded AIES'24 Student Travel Award"
-
-  - date: "Jul. 2024"
+  - date: "Jul 2024"
     content: "One first-authored paper is accepted by AIES 2024."
 
 
 
 
-
 old:
-  - date: "Jul. 2024"
+  - date: "Jul 2024"
     content: "I get awarded a Academic Travel Grants, thanks for my department."
   - date: "May 2024"
     content: "I get awarded a scholarship from UAI 2024"
-  - date: "Apr. 2024"
+  - date: "Apr 2024"
     content: "One first-authored paper is accepted by UAI 2024"
-  - date: "Nov. 2023"
+  - date: "Nov 2023"
     content: "I get awarded a Academic Travel Grants, thanks for my department."
-  - date: "Apr. 2023"
+  - date: "Apr 2023"
     content: "I get awarded a Summer Graduate Award (SGA), thanks for my department."
-  - date: "Jan. 2023"
+  - date: "Jan 2023"
     content: "I join in NCSU as a Ph.D. student."

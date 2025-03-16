@@ -18,6 +18,8 @@ My current research lies at **trustworthy machine learning** -- with a special f
 
 {% include_relative _includes/news.md %}
 
+{% include_relative _includes/profession.md %}
+
 {% include_relative _includes/education.md %}
 
 {% include_relative _includes/publications.md %}
@@ -31,5 +33,9 @@ My current research lies at **trustworthy machine learning** -- with a special f
 {% include_relative _includes/services.md %}
 
 {% include_relative _includes/award.md %}
+
+<!--
+{% include_relative _includes/patent.md %}
+-->
 
 {% include_relative _includes/contact.md %}
