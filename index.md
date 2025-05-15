@@ -18,9 +18,7 @@ My current research lies at **trustworthy machine learning** -- with a special f
 
 {% include_relative _includes/news.md %}
 
-<!--
 {% include_relative _includes/profession.md %}
--->
 
 {% include_relative _includes/education.md %}
 
