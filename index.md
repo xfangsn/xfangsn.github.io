@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am Xingli Fang (方星力 in Chinese), a **Ph.D. student** at North Carolina State University advised by [Dr. Jung-Eun Kim](https://jungeunkim.wordpress.ncsu.edu/). Prior to that, I got my Master Degree (Computer Engineering) from Syracuse University and Bachelor Degree (Software Engineering) from Northeastern University (China).
+I am Xingli Fang (方星力 in Chinese), a **Ph.D. candidate** at North Carolina State University advised by [Dr. Jung-Eun Kim](https://jungeunkim.wordpress.ncsu.edu/). Prior to that, I got my Master Degree (Computer Engineering) from Syracuse University and Bachelor Degree (Software Engineering) from Northeastern University (China).
 
 My current research lies at **trustworthy machine learning** -- with a special focus on building privacy-safe and efficient ML. My research interests include **privacy**, **efficient AI**, **semi-supervised learning**, and **generative models**.
 
