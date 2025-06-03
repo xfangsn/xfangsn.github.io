@@ -32,13 +32,13 @@ Internship Experience
     <div class="text">
         <h2><div style="display: flex; justify-content: space-between;">
             <span>AT&T Labs</span>
-            <span>[Will start in 2025 Jun]</span>
+            <span>[ 2025 Jun - 2025 Aug]</span>
         </div></h2>
         <h3><span style="color: #333333;">
         Sr Associate Student Intern Technical II
         </span></h3>
         <p>
-        Will work in <strong> AT&T Lab Internship (Advanced Degree) </strong> research program
+        Work in <strong> AT&T Lab Internship (Advanced Degree) </strong> research program with a focus on AI foundation model for AT&T network big data.
         </p>
     </div>
 </div>
