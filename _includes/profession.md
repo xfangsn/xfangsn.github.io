@@ -38,7 +38,8 @@ Internship Experience
         Sr Associate Student Intern Technical II
         </span></h3>
         <p>
-        Work in <strong> AT&T Lab Internship (Advanced Degree) </strong> research program with a focus on AI foundation model for AT&T network big data.
+        Work in <strong> AT&T Lab Internship (Advanced Degree) </strong> 
+        research program with a focus on AI foundation model for AT&T network big data.
         </p>
     </div>
 </div>

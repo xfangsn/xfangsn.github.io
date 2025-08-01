@@ -17,5 +17,7 @@
 <li>
 <strong>[Apr 2023]</strong> Summer Graduate Award (SGA), Department of Comp. Sci., NC State University
 </li>
-
+<li>
+<strong>[May 2021]</strong> Graduate Student Grant, EECS, Syracuse University
+</li>
 <!-- <br/> -->
