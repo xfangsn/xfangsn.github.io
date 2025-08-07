@@ -3,11 +3,14 @@ cpcommittee:
     link: https://aaai.org/conference/aaai/aaai-26/
 creviewer:
   - content: "<strong>[ICML 2025]</strong> The 42nd International Conference on Machine Learning"
-    link: https://icml.cc/Conferences/2025
+    link: https://icml.cc/Conferences/2025/ProgramCommittee
+  ## https://icml.cc/Conferences/2025
   - content: "<strong>[VTC 2025]</strong> The 2025 IEEE 101st Vehicular Technology Conference"
-    link: https://vtsociety.org/event/conference/101st-ieee-vehicular-technology-conference
+    link: http://events.vtsociety.org/vtc2025-spring/wp-content/uploads/sites/45/2025/06/vtc2025spring_FPweb.pdf
+  ##  https://vtsociety.org/event/conference/101st-ieee-vehicular-technology-conference
   - content: "<strong>[WANT@ICML 2024]</strong> 2nd Workshop on Advancing Neural Network Training: Computational Efficiency, Scalability, and Resource Optimization"
-    link: https://want-ai-hpc.github.io/icml2024/about/
+    link: https://want-ai-hpc.github.io/icml2024/organizers
+  ## https://want-ai-hpc.github.io/icml2024/about/
 
 conference:
   #- content: "<strong>[Feb 2025]</strong> The 41st Conference on Uncertainty in Artificial Intelligence (UAI 2025) , will serve as reviewer"
