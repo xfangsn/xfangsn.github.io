@@ -16,8 +16,9 @@ Internship Experience
         flex-grow: 1;
     }
     .pro-image-text-container img {
-        width: 160px;
-        object-fit: cover;
+        width: 120px;
+        height: 120px;
+        object-fit: contain;
         margin-right: 20px;
         border-radius: 5px;
     }
@@ -35,7 +36,7 @@ Internship Experience
             <span>[ 2025 Jun - 2025 Aug]</span>
         </div></h2>
         <h3><span style="color: #333333;">
-        Sr Associate Student Intern Technical II
+        Research Intern (Sr Associate Student Intern Technical II)
         </span></h3>
         <p>
         Work in <strong> AT&T Lab Internship (Advanced Degree) </strong> 
