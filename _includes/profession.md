@@ -16,8 +16,8 @@ Internship Experience
         flex-grow: 1;
     }
     .pro-image-text-container img {
-        width: 115px;
-        height: 115px;
+        width: 140px;
+        height: 140px;
         object-fit: contain;
         margin-right: 20px;
         border-radius: 5px;
@@ -30,7 +30,7 @@ Internship Experience
 
 <!--
 <div class="pro-image-text-container">
-    <img src="./assets/img/pro/apple.svg" alt="Image">
+    <img src="./assets/img/pro/apple_min.svg" alt="Image">
     <div class="text">
         <h2><div style="display: flex; justify-content: space-between;">
             <span> Apple </span>
@@ -49,14 +49,14 @@ Internship Experience
 
 
 <div class="pro-image-text-container">
-    <img src="./assets/img/pro/att.svg" alt="Image">
+    <img src="./assets/img/pro/att_min.svg" alt="Image">
     <div class="text">
         <h2><div style="display: flex; justify-content: space-between;">
             <span>AT&T Labs</span>
             <span>[ 2025 Jun - 2025 Aug]</span>
         </div></h2>
         <h3><span style="color: #333333;">
-        Research Intern (Sr Associate Student Intern Technical II)
+        Sr Associate Student Intern Technical II
         </span></h3>
         <p>
         Worked in <strong> AT&T Lab Internship (Advanced Degree) </strong> 
