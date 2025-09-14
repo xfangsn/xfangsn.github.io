@@ -16,10 +16,11 @@ Internship Experience
         flex-grow: 1;
     }
     .pro-image-text-container img {
-        width: 140px;
-        height: 140px;
+        width: 130px;
+        height: 130px;
         object-fit: contain;
         margin-right: 20px;
+        margin-bottom: 10px;
         border-radius: 5px;
     }
     .pro-image-text-container .text {
@@ -27,25 +28,6 @@ Internship Experience
     }
 </style>
 
-
-<!--
-<div class="pro-image-text-container">
-    <img src="./assets/img/pro/apple_min.svg" alt="Image">
-    <div class="text">
-        <h2><div style="display: flex; justify-content: space-between;">
-            <span> Apple </span>
-            <span>[ 2026 May - 2026 Aug]</span>
-        </div></h2>
-        <h3><span style="color: #333333;">
-        Machine Learning / AI Internships
-        </span></h3>
-        <p>
-        Work in <strong> AT&T Lab Internship (Advanced Degree) </strong> 
-        research program with a focus on AI foundation model for AT&T network big data.
-        </p>
-    </div>
-</div>
--->
 
 
 <div class="pro-image-text-container">
