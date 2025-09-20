@@ -36,9 +36,6 @@ bachelor_logo: ./assets/img/neu-logo.svg
 master_logo: ./assets/img/syracuse-logo.svg
 phd_logo: ./assets/img/ncsu-logo.svg
 
-# PRO
-att_logo: ./assets/img/att_min.svg
-
 
 # Footnotes
 footnote: "2025 Xingli Fang"
