@@ -49,7 +49,8 @@ journal:
     # code:
     page: https://link.springer.com/article/10.1007/s11709-022-0823-3
     # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:NZGEy3ujCC0J:scholar.google.com/&output=citation&scisdr=ClEobhnPEJTrxYmYZ2Q:AFWwaeYAAAAAZhWef2R_Qq9e3BVxUKdA0E6Bw1Q&scisig=AFWwaeYAAAAAZhWef-E7S0zQTgtsxg73nWn-cps&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
-    image: https://www.researchgate.net/profile/Zaobao-Liu-liuzaobao/publication/361573354/figure/fig3/AS:11431281090690668@1666140386147/Comparison-of-absolute-errors-of-all-models_W640.jpg
+    image: ./assets/img/paper/sr2024.jpg
+    # https://www.researchgate.net/profile/Zaobao-Liu-liuzaobao/publication/361573354/figure/fig3/AS:11431281090690668@1666140386147/Comparison-of-absolute-errors-of-all-models_W640.jpg
     # https://academic.hep.com.cn//article/2022/2095-2430/2095-2430-16-4-401/thumbnail/fsc-22823-zl-fig1.jpg
     # notes:
 
