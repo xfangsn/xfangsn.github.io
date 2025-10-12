@@ -4,23 +4,32 @@
 
 <ul>
 
-{% assign all_news = site.data.news.current%}
 
-<!-- Show the first 5 items -->
-{% for news in all_news limit:5 %}
-<li><strong>[{{ news.date }}]</strong> {{ news.content }}</li>
+<!-- current news -->
+{% for news in site.data.news.current %}
+<li>
+<strong>[{{ news.date }}]</strong> {{ news.content }}
+</li>
 {% endfor %}
 
-<!-- Toggle link -->
+<!-- old news -->
+<!-- 
+<li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
+<div id="newsmore" style="display:none">
+{% for news in site.data.news.old %} 
+<li><strong>[{{ news.date }}]</strong> {{ news.content }}</li>
+{% endfor %}
+</div>
+-->
+
 <li>
   <a href="#" class="toggle-link" data-target="newsmore">Show more</a>
 </li>
 
-<!-- Hidden remaining items -->
 <div id="newsmore" style="display:none;">
-  {% for news in all_news offset:5 %}
-  <li><strong>[{{ news.date }}]</strong> {{ news.content }}</li>
-  {% endfor %}
+{% for news in site.data.news.old %} 
+<li><strong>[{{ news.date }}]</strong> {{ news.content }}</li>
+{% endfor %}
 </div>
 
 <script>

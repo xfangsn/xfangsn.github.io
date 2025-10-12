@@ -29,13 +29,78 @@ Internship Experience
 </style>
 
 
+<!--
+<div class="pro-image-text-container">
+    <img src="./assets/img/pro/apple_min.svg" alt="Image">
+    <div class="text">
+        <h2><div style="display: flex; justify-content: space-between;">
+            <span>Apple</span>
+            <span>[2026 May - 2026 Aug]</span>
+        </div></h2>
+        <h3><span style="color: #333333;">
+        Software Engineering Intern
+        </span></h3>
+        <p>
+        Worked as a SDE Intern at Apple with a focus on .
+        </p>
+    </div>
+</div>
+
+<div class="pro-image-text-container">
+    <img src="./assets/img/pro/google_min.svg" alt="Image">
+    <div class="text">
+        <h2><div style="display: flex; justify-content: space-between;">
+            <span>Google</span>
+            <span>[2026 May - 2026 Aug]</span>
+        </div></h2>
+        <h3><span style="color: #333333;">
+        PhD Software Engineering Internship
+        </span></h3>
+        <p>
+        Worked as a SDE Intern at Google with a focus on .
+        </p>
+    </div>
+</div>
+
+<div class="pro-image-text-container">
+    <img src="./assets/img/pro/meta_min.svg" alt="Image">
+    <div class="text">
+        <h2><div style="display: flex; justify-content: space-between;">
+            <span>Meta</span>
+            <span>[2026 May - 2026 Aug]</span>
+        </div></h2>
+        <h3><span style="color: #333333;">
+        Machine Learning PhD Software Engineering Internship
+        </span></h3>
+        <p>
+        Worked as a SDE Intern at Meta with a focus on .
+        </p>
+    </div>
+</div>
+
+<div class="pro-image-text-container">
+    <img src="./assets/img/pro/susquehanna.jpeg" alt="Image">
+    <div class="text">
+        <h2><div style="display: flex; justify-content: space-between;">
+            <span>Susquehanna</span>
+            <span>[2026 May - 2026 Aug]</span>
+        </div></h2>
+        <h3><span style="color: #333333;">
+        Quantitative Research Internship
+        </span></h3>
+        <p>
+        Worked as a SDE Intern at Susquehanna with a focus on .
+        </p>
+    </div>
+</div>
+-->
 
 <div class="pro-image-text-container">
     <img src="./assets/img/pro/att_min.svg" alt="Image">
     <div class="text">
         <h2><div style="display: flex; justify-content: space-between;">
             <span>AT&T Labs</span>
-            <span>[ 2025 Jun - 2025 Aug]</span>
+            <span>[2025 Jun - 2025 Aug]</span>
         </div></h2>
         <h3><span style="color: #333333;">
         Research Intern (Sr Associate Student Intern Technical II)
