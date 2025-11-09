@@ -16,10 +16,11 @@ Education
         flex-grow: 1;
     }
     .image-text-container img {
-        width: 115px;
-        height: 115px;
-        object-fit: cover;
+        width: 110px;
+        height: 110px;
+        object-fit: contain;
         margin-right: 20px;
+        margin-bottom: 20px;
         border-radius: 5px;
     }
     .image-text-container .text {

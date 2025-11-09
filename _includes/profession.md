@@ -20,7 +20,7 @@ Internship Experience
         height: 120px;
         object-fit: contain;
         margin-right: 20px;
-        margin-bottom: 10px;
+        margin-bottom: 15px;
         border-radius: 5px;
     }
     .pro-image-text-container .text {
@@ -46,21 +46,7 @@ Internship Experience
     </div>
 </div>
 
-<div class="pro-image-text-container">
-    <img src="./assets/img/pro/google_min.svg" alt="Image">
-    <div class="text">
-        <h2><div style="display: flex; justify-content: space-between;">
-            <span>Google</span>
-            <span>[2026 May - 2026 Aug]</span>
-        </div></h2>
-        <h3><span style="color: #333333;">
-        PhD Software Engineering Internship
-        </span></h3>
-        <p>
-        Worked as a SDE Intern at Google with a focus on .
-        </p>
-    </div>
-</div>
+
 
 <div class="pro-image-text-container">
     <img src="./assets/img/pro/meta_min.svg" alt="Image">
@@ -70,30 +56,15 @@ Internship Experience
             <span>[2026 May - 2026 Aug]</span>
         </div></h2>
         <h3><span style="color: #333333;">
-        Machine Learning PhD Software Engineering Internship
+        Software Engineer Intern, Machine Learning (PhD)
         </span></h3>
         <p>
         Worked as a SDE Intern at Meta with a focus on .
         </p>
     </div>
 </div>
-
-<div class="pro-image-text-container">
-    <img src="./assets/img/pro/susquehanna.jpeg" alt="Image">
-    <div class="text">
-        <h2><div style="display: flex; justify-content: space-between;">
-            <span>Susquehanna</span>
-            <span>[2026 May - 2026 Aug]</span>
-        </div></h2>
-        <h3><span style="color: #333333;">
-        Quantitative Research Internship
-        </span></h3>
-        <p>
-        Worked as a SDE Intern at Susquehanna with a focus on .
-        </p>
-    </div>
-</div>
 -->
+
 
 <div class="pro-image-text-container">
     <img src="./assets/img/pro/att_min.svg" alt="Image">
