@@ -20,7 +20,7 @@ Education
         height: 110px;
         object-fit: contain;
         margin-right: 20px;
-        margin-bottom: 20px;
+        margin-bottom: 18px;
         border-radius: 5px;
     }
     .image-text-container .text {
