@@ -16,8 +16,8 @@ Internship Experience
         flex-grow: 1;
     }
     .pro-image-text-container img {
-        width: 120px;
-        height: 120px;
+        width: 110px;
+        height: 110px;
         object-fit: contain;
         margin-right: 20px;
         margin-bottom: 15px;
