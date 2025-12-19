@@ -35,6 +35,7 @@ journal:
     authors: Long Li<sup><i class="fa-regular fa-envelope fa-xs"></i></sup>, Zaobao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup>, <strong>Xingli Fang</strong>, Wenbiao Qi
     # conference_short:
     conference: Scientific Reports, 2024.
+    conference_short: "Sci. Rep."
     pdf: https://www.nature.com/articles/s41598-024-65351-3
     # code:
     page: https://www.nature.com/articles/s41598-024-65351-3
@@ -45,6 +46,7 @@ journal:
     authors: Zaobao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup>,Yongchen Wang, Long Li, <strong>Xingli Fang</strong>, Junze Wang
     # conference_short:
     conference: Frontiers of Structural and Civil Engineering, 2022.
+    conference_short: "Front. Struct. Civ. Eng."
     pdf: https://link.springer.com/content/pdf/10.1007/s11709-022-0823-3.pdf
     # code:
     page: https://link.springer.com/article/10.1007/s11709-022-0823-3
@@ -58,6 +60,7 @@ journal:
     authors: Zaobao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup>,Long Li, <strong>Xingli Fang</strong>, Wenbiao Qi, Jimei Shen, Hongyuan Zhou, Yulong Zhang
     # conference_short:
     conference: Automation in Construction, 2021.
+    conference_short: "Autom. Constr."
     pdf: https://www.sciencedirect.com/science/article/pii/S0926580521000984
     # code:
     page: https://www.sciencedirect.com/science/article/pii/S0926580521000984
