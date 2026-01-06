@@ -67,7 +67,7 @@ Internship Experience
 
 
 <div class="pro-image-text-container">
-    <img src="./assets/img/pro/pinterest.svg" alt="Image">
+    <img src="./assets/img/pro/dropbox_min.svg" alt="Image">
     <div class="text">
         <h2><div style="display: flex; justify-content: space-between;">
             <span>Pinterest</span>
