@@ -1,4 +1,14 @@
 conference:
+  - title: Learnability and Privacy Vulnerability are Entangled in a Few Critical Weights
+    authors: <strong>Xingli Fang</strong>, Jung-Eun Kim<sup><i class="fa-regular fa-envelope fa-xs"></i></sup>
+    conference_short: "ICLR 26"
+    conference: "The Fourteenth International Conference on Learning Representations, 2026"
+    #pdf:
+    #code:
+    #page:
+    #bibtex:
+    image: ./assets/img/paper/cwrf2026.png
+
   - title: Representation Magnitude has a Liability to Privacy Vulnerability
     authors: <strong>Xingli Fang</strong>, Jung-Eun Kim<sup><i class="fa-regular fa-envelope fa-xs"></i></sup>
     conference_short: "AIES 24"
