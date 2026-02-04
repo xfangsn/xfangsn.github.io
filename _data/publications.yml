@@ -80,6 +80,12 @@ journal:
 
 
 preprint:
+  - title: "Decoupling Generalizability and Membership Privacy Risks in Neural Networks"
+    authors: <strong>Xingli Fang</strong>, Jung-Eun Kim<sup><i class="fa-regular fa-envelope fa-xs"></i></sup>
+    conference_short: ArXiv
+    conference: "ArXiv, 2026."
+    pdf: https://www.arxiv.org/abs/2602.02296
+    image: https://arxiv.org/html/2602.02296v1/x18.png
   - title: "Trustworthy AI on Safety, Bias, and Privacy: A Survey"
     authors: <strong>Xingli Fang</strong>, Jianwei Li, Varun Mulchandani, Jung-Eun Kim<sup><i class="fa-regular fa-envelope fa-xs"></i></sup>
     conference_short: ArXiv
