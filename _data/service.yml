@@ -1,16 +1,14 @@
 cpcommittee:
   - content: "<strong>[AAAI 2026]</strong> The Fortieth AAAI Conference on Artificial Intelligence"
     link: https://aaai.org/conference/aaai/aaai-26/main-technical-track-call/
-  - content: "<strong>[AISI 2026]</strong> The Fortieth AAAI Conference on Artificial Intelligence, Special Track on AI for Social Impact"
-    link: https://aaai.org/conference/aaai/aaai-26/aisi-call/
 
 creviewer:
   - content: "<strong>[UAI 2026]</strong> 42nd Conference on Uncertainty in Artificial intelligence"
     link: https://www.auai.org/uai2026/
   - content: "<strong>[AAAI 2026]</strong> The Fortieth AAAI Conference on Artificial Intelligence"
-    link: https://aaai.org/conference/aaai/aaai-26/main-technical-track-call/
+    link: https://aaai.org/conference/aaai/aaai-26/2026-program-committee/
   - content: "<strong>[AISI 2026]</strong> The Fortieth AAAI Conference on Artificial Intelligence, Special Track on AI for Social Impact"
-    link: https://aaai.org/conference/aaai/aaai-26/aisi-call/
+    link: https://aaai.org/conference/aaai/aaai-26/2026-program-committee/
   - content: "<strong>[ICML 2025]</strong> The 42nd International Conference on Machine Learning"
     link: https://icml.cc/Conferences/2025/ProgramCommittee
   ## https://icml.cc/Conferences/2025

@@ -31,24 +31,6 @@ Internship Experience
 
 <!--
 <div class="pro-image-text-container">
-    <img src="./assets/img/pro/apple_min.svg" alt="Image">
-    <div class="text">
-        <h2><div style="display: flex; justify-content: space-between;">
-            <span>Apple</span>
-            <span>[2026 May - 2026 Aug]</span>
-        </div></h2>
-        <h3><span style="color: #333333;">
-        Software Engineering Intern
-        </span></h3>
-        <p>
-        Worked as a SDE Intern at Apple with a focus on .
-        </p>
-    </div>
-</div>
-
-
-
-<div class="pro-image-text-container">
     <img src="./assets/img/pro/meta_min.svg" alt="Image">
     <div class="text">
         <h2><div style="display: flex; justify-content: space-between;">
@@ -59,25 +41,7 @@ Internship Experience
         Software Engineer Intern, Machine Learning (PhD)
         </span></h3>
         <p>
-        Worked as a SDE Intern at Meta with a focus on .
-        </p>
-    </div>
-</div>
-
-
-
-<div class="pro-image-text-container">
-    <img src="./assets/img/pro/dropbox_min.svg" alt="Image">
-    <div class="text">
-        <h2><div style="display: flex; justify-content: space-between;">
-            <span>Pinterest</span>
-            <span>[2026 May - 2026 Aug]</span>
-        </div></h2>
-        <h3><span style="color: #333333;">
-        Machine Learning Internship
-        </span></h3>
-        <p>
-        Worked as a MLE Intern at Pinterest with a focus on .
+        Will work as Software Engineer Intern, Machine Learning (PhD) in the upcoming summer.
         </p>
     </div>
 </div>
