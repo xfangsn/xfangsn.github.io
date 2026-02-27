@@ -56,10 +56,10 @@ Currently, I am exploring **privacy** topics in large language models (**LLMs**)
     <li>
     I will attend <strong>ICLR 2026</strong> in April — 
     happy to connect all researchers and recruiters in Rio de Janeiro, Brazil!</li>
-    <!--<li>
+    <li>
     Also, this summer, I will join <strong>Meta</strong> as an intern to work with 
-    Monetization Ranking & Foundational AI: Conversion Modeling and Growth team. 
-    Looking forward to connect everyone!</li>-->
+    RAI org. 
+    Looking forward to connect everyone in Seattle Area!</li>
   </ul>
 </div>
 
