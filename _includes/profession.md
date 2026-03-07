@@ -28,7 +28,7 @@ Internship Experience
     }
 </style>
 
-<!--
+
 <div class="pro-image-text-container">
     <img src="./assets/img/pro/meta_min.svg" alt="Image">
     <div class="text">
@@ -44,7 +44,6 @@ Internship Experience
         </p>
     </div>
 </div>
--->
 
 
 <div class="pro-image-text-container">
