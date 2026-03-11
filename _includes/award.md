@@ -2,9 +2,6 @@
 
 <h2 style="margin: 60px 0px 10px;">Honors / Grants / Awards</h2>
 <li>
-<strong>[Feb 2026]</strong> Academic Travel Grants, Department of Comp. Sci., NC State University
-</li>
-<li>
 <strong>[Oct 2024]</strong> AIES'24 Student Travel Award, 7th AAAI Conference on AI, Ethics, and Society
 </li>
 <li>
