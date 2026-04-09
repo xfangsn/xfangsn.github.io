@@ -63,12 +63,11 @@ Currently, I am exploring **privacy** topics in large language models (**LLMs**)
   </ul>
 </div>
 
-<!--
 <div class="recruit-box">
   <h2>📢 Looking For 2027 Intern and Full-Time Position</h2>
   <p>
     I am actively looking for 
-    <strong> 2027 Spring Intern </strong> and 
+    <strong> 2027 Spring / Summer Intern </strong> and 
     <strong> 2027 New Grad Full-Time Role </strong> 
     in <strong> Research Scientist </strong> and <strong> Software Engineer </strong> 
     regarding <strong> any AI-based topics 
@@ -81,11 +80,11 @@ Currently, I am exploring **privacy** topics in large language models (**LLMs**)
     I am glad to talk with any potiential opportunities regarding industrial or academic cooperation chances.
     </strong>
   </p>
-  <p>
+  <!-- <p>
     📄 My CV: <a href="/assets/cv.pdf">Download CV</a>
-  </p>
+  </p> -->
 </div>
--->
+
 
 
 <!-- 
