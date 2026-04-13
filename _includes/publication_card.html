@@ -1,0 +1,46 @@
+<div class="pub-card">
+  {% if include.link.image %}
+  <div class="pub-thumbnail">
+    {% if include.link.conference_short %}
+    <div class="pub-badge">{{ include.link.conference_short }}</div>
+    {% endif %}
+    <img src="{{ include.link.image }}" alt="{{ include.link.title }}" loading="lazy">
+  </div>
+  {% endif %}
+  <div class="pub-content">
+    <div class="title">{% if include.link.pdf %}<a href="{{ include.link.pdf }}" target="_blank">{{ include.link.title }}</a>{% else %}{{ include.link.title }}{% endif %}</div>
+    <div class="author">{{ include.link.authors }}</div>
+    <div class="periodical"><em><strong>{{ include.link.conference }}</strong></em></div>
+    <div class="links">
+      {% assign has_link = false %}
+      {% if include.link.pdf %}
+        <a href="{{ include.link.pdf }}" target="_blank">PDF</a>
+        {% assign has_link = true %}
+      {% endif %}
+      {% if include.link.code %}
+        {% if has_link %} / {% endif %}
+        <a href="{{ include.link.code }}" target="_blank">Code</a>
+        {% assign has_link = true %}
+      {% endif %}
+      {% if include.link.page %}
+        {% if has_link %} / {% endif %}
+        <a href="{{ include.link.page }}" target="_blank">Project Page</a>
+        {% assign has_link = true %}
+      {% endif %}
+      {% if include.link.bibtex %}
+        {% if has_link %} / {% endif %}
+        <a href="{{ include.link.bibtex }}" target="_blank">BibTex</a>
+        {% assign has_link = true %}
+      {% endif %}
+      {% if include.link.notes %}
+        {% if has_link %} / {% endif %}
+        <strong><i style="color:#e74d3c">{{ include.link.notes }}</i></strong>
+        {% assign has_link = true %}
+      {% endif %}
+      {% if include.link.others %}
+        {% if has_link %} / {% endif %}
+        {{ include.link.others }}
+      {% endif %}
+    </div>
+  </div>
+</div>
