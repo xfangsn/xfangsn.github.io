@@ -49,19 +49,17 @@ I am Xingli Fang (方星力 in Chinese), a **Ph.D. candidate** at North Carolina
 My degree research lies at **Trustworthy ML (a.k.a., Responsible AI)** -- with a special focus on building privacy-safe and efficient ML. My research interests include **privacy**, **efficient AI**, **semi-/self- supervised learning**, and **generative models**.
 Currently, I am exploring **privacy** topics in large language models (**LLMs**).
 
-
+<!--
 <div class="news-box">
   <h2>🌿 Updates</h2>
   <ul>
     <li>
-    I will attend <strong>ICLR 2026</strong> in April — 
-    happy to connect all researchers and recruiters in Rio de Janeiro, Brazil!</li>
-    <li>
-    Also, this summer, I will join <strong>Meta</strong> as an intern to work with 
+    This summer, I will join <strong>Meta</strong> as an intern to work with 
     RAI org. 
     Looking forward to connect everyone in Seattle Area!</li>
   </ul>
 </div>
+-->
 
 <div class="recruit-box">
   <h2>📢 Looking For 2027 Intern and Full-Time Position</h2>
@@ -73,12 +71,6 @@ Currently, I am exploring **privacy** topics in large language models (**LLMs**)
     regarding <strong> any AI-based topics 
     (e.g., LLM Optimization, Responsible AI, AI Safety, and Agentic AI) </strong>. 
     I'm welcome any contacts regarding AI opportunities. <br>
-  </p>
-  <p>
-    <strong>
-    I will attend ICLR 2026 in Brazil and 
-    I am glad to talk with any potiential opportunities regarding industrial or academic cooperation chances.
-    </strong>
   </p>
   <!-- <p>
     📄 My CV: <a href="/assets/cv.pdf">Download CV</a>
