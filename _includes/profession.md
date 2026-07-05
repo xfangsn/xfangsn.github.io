@@ -40,7 +40,7 @@ Internship Experience
         Software Engineer Intern, Machine Learning (PhD)
         </span></h3>
         <p>
-        Will work as Software Engineer Intern, Machine Learning (PhD) in the upcoming summer.
+        Working with Ranking & Foundational AI team regarding Ads ranking model.
         </p>
     </div>
 </div>
