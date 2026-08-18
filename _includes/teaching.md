@@ -3,6 +3,10 @@
 <h2 style="margin: 60px 0px 10px;">Teaching</h2>
 
 <ul>
+<li>
+    Teaching Assistant, <a href="https://webappprd.acs.ncsu.edu/php/coursecat/syllabus.php?strm=2268&class_nbr=11509">Fundamentals of Applied AI (CSC 201)</a> at <a href="https://www.ncsu.edu/">NC State University</a>, 
+    2026 Fall
+  </li>
   <li>
     Teaching Assistant, <a href="https://engineeringonline.ncsu.edu/online-courses/spring-2026/csc-591-artificial-intelligence-of-things/">Artificial Intelligence of Things (CSC 591)</a> at <a href="https://www.ncsu.edu/">NC State University</a>, 
     2026 Spring
