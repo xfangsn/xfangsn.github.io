@@ -40,7 +40,7 @@ Internship Experience
         Software Engineer Intern, Machine Learning (PhD)
         </span></h3>
         <p>
-        Worked with Ranking & Foundational AI team regarding Ads ranking model research.
+        Worked with Ranking & Foundational AI team regarding Ads ranking/conversion model research.
         </p>
     </div>
 </div>
